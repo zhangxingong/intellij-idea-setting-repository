@@ -1,0 +1,21 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '[HDMS3_ELAFS] - ...\src\com\cobocn\hdms\unitask\UniTaskDAO.java'" />
+    <option name="defaultScopeName" value="File '[HDMS3_ELAFS] - ...\src\com\cobocn\hdms\unitask\UniTaskDAO.java'" />
+    <option name="SEARCH_SCOPE" value="File '[HDMS3_ELAFS] - ...\src\com\cobocn\hdms\unitask\UniTaskDAO.java'" />
+    <option name="FILE_MASK" value="*.jsp" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.html</mask>
+      <mask>*</mask>
+      <mask>*js</mask>
+      <mask>*.jsp</mask>
+    </recentFileMasks>
+  </component>
+</application>

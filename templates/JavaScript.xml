@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="jax" value=" $.ajax({contentType: &quot;application/x-www-form-urlencoded; charset=utf-8&quot;,&#10;              type: &quot;post&quot;,&#10;              data: { &#10;              $END$&#10;              },&#10;              url: '$END$'}).done(function () {&#10;$END$&#10;          });" description="ajax" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

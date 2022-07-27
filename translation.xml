@@ -1,0 +1,12 @@
+<application>
+  <component name="TranslationSettings">
+    <option name="appId" value="6705283a766db0cf" />
+    <option name="disableAppKeyNotification" value="true" />
+    <option name="langFrom" value="AUTO" />
+    <option name="langTo" value="AUTO" />
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Source Code Pro" />
+    <option name="primaryFontFamily" value="Source Code Pro" />
+    <option name="privateKeyConfigured" value="true" />
+  </component>
+</application>

@@ -1,0 +1,22 @@
+<templateSet group="JSP">
+  <template name="cancel" value="&lt;hdms:btn click=&quot;window.history.back()&quot; text=&quot;coboHDMS.util.back&quot;/&gt;" description="后退" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="close" value="&lt;hdms:btn text=&quot;coboHDMS.util.close&quot; click=&quot;window.close()&quot; /&gt;" description="关闭" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="rowEnd" value="&lt;hdms:tableRowEnd/&gt;" description="tableRowEnd" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="tableInfo" value="&#9;&lt;div id=&quot;tableInfo&quot; class=&quot;prompt&quot; style=&quot;display:none;&quot;&gt;&#10;        &lt;bean:message key=&quot;coboHDMS.layouts.1004&quot; /&gt;&#10;        &lt;a href=&quot;#&quot; onclick=&quot;reloadPage()&quot;&gt;&lt;bean:message key=&quot;coboHDMS.layouts.1006&quot; /&gt;&lt;/a&gt;&#10;    &lt;/div&gt;" description="sf callback:updateTableInfo" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+</templateSet>

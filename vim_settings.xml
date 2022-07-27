@@ -1,0 +1,1282 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/m/ajax/coursecenter.jsp" timestamp="1645597942366">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="71" column="32" />
+      </file>
+      <file name="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/courseware/cache/EUCourseCache.java" timestamp="1645596741162">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="56" column="23" />
+        <mark key="." line="57" column="0" />
+      </file>
+      <file name="D:/xgzhang/java/workspace/git/moti-cloud/src/main/resources/templates/index.html" timestamp="1645690700654">
+        <mark key="[" line="141" column="32" />
+        <mark key="]" line="141" column="33" />
+        <mark key="." line="141" column="33" />
+      </file>
+      <file name="/a.dummy" timestamp="1646026672060">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/script/coboHDMS.js" timestamp="1645599638356">
+        <mark key="[" line="3409" column="0" />
+        <mark key="]" line="3409" column="0" />
+        <mark key="^" line="3404" column="26" />
+        <mark key="." line="3409" column="0" />
+      </file>
+      <file name="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/static/fine-uploader/fine-uploader.js" timestamp="1645510496693">
+        <mark key="[" line="6998" column="0" />
+        <mark key="]" line="6998" column="0" />
+        <mark key="^" line="6994" column="19" />
+        <mark key="." line="6998" column="0" />
+      </file>
+      <file name="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/tools/forum/ForumManager.java" timestamp="1646028591980">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="973" column="5" />
+        <mark key="]" line="490" column="25" />
+        <mark key="^" line="490" column="25" />
+        <mark key="." line="490" column="25" />
+      </file>
+      <file name="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/admin/courseware/PackageCourseView_passcheck.jsp" timestamp="1644910765661">
+        <mark key="[" line="117" column="57" />
+      </file>
+      <file name="D:/xgzhang/java/workspace/git/moti-cloud/src/main/resources/application.yml" timestamp="1645687561236">
+        <mark key="[" line="43" column="13" />
+        <mark key="]" line="43" column="14" />
+        <mark key="." line="43" column="14" />
+      </file>
+      <file name="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/admin/sqlreport/SQLReportExcelResult.jsp" timestamp="1645494217940">
+        <mark key="[" line="13" column="82" />
+        <mark key="]" line="13" column="82" />
+        <mark key="^" line="13" column="82" />
+        <mark key="." line="13" column="82" />
+      </file>
+      <file name="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/m/tools/forum/KMListthread.jsp" timestamp="1646027978612">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="29" />
+        <mark key="^" line="13" column="29" />
+        <mark key="." line="13" column="29" />
+      </file>
+      <file name="D:/xgzhang/java/workspace/git/moti-cloud/src/main/java/com/moti/component/LoginHandlerInterceptor.java" timestamp="1645607435723">
+        <mark key="[" line="27" column="27" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1645681229041">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/courseware/actions/PackageCourseAction.java" timestamp="1645597903430">
+        <mark key="[" line="660" column="54" />
+        <mark key="]" line="660" column="54" />
+        <mark key="^" line="660" column="65" />
+        <mark key="." line="660" column="54" />
+      </file>
+      <file name="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/portal/cpaper/CPaperLaunchfornoti.jsp" timestamp="1645666367099">
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="246" column="0" />
+        <mark key="." line="246" column="0" />
+      </file>
+      <file name="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/portal/courseware/EasyCourseContent.jsp" timestamp="1645593797362">
+        <mark key="[" line="517" column="19" />
+        <mark key="]" line="517" column="18" />
+        <mark key="^" line="517" column="18" />
+        <mark key="." line="517" column="18" />
+      </file>
+      <file name="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/admin/ajax/courseList.jsp" timestamp="1645582832111">
+        <mark key="[" line="42" column="30" />
+        <mark key="]" line="42" column="29" />
+        <mark key="^" line="42" column="29" />
+        <mark key="." line="42" column="29" />
+      </file>
+      <file name="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/m/courseware/CoursewareView.jsp" timestamp="1645595592390">
+        <mark key="[" line="74" column="21" />
+        <mark key="]" line="74" column="21" />
+        <mark key="." line="74" column="21" />
+      </file>
+      <file name="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/m/roster/LearnPlay.jsp" timestamp="1645522241779">
+        <mark key="[" line="388" column="83" />
+        <mark key="]" line="388" column="65" />
+        <mark key="." line="388" column="65" />
+        <mark key="^" line="388" column="65" />
+      </file>
+      <file name="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/roster/actions/LearnAction.java" timestamp="1645500709256">
+        <mark key="[" line="857" column="17" />
+        <mark key="]" line="857" column="16" />
+        <mark key="." line="857" column="16" />
+        <mark key="^" line="857" column="16" />
+      </file>
+      <file name="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/static/sp/mce.js" timestamp="1645606420584">
+        <mark key="[" line="321" column="72" />
+        <mark key="]" line="338" column="0" />
+        <mark key="." line="338" column="0" />
+      </file>
+      <file name="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/portal/courseware/EasyCourseMakemedia.jsp" timestamp="1645605980105">
+        <mark key="[" line="45" column="16" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/util/upload/info.jsp" timestamp="1645501466110">
+        <mark key="[" line="260" column="30" />
+        <mark key="]" line="260" column="30" />
+        <mark key="^" line="242" column="44" />
+        <mark key="." line="260" column="30" />
+      </file>
+      <file name="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/tag/actions/EUTagAction.java" timestamp="1645680005610">
+        <mark key="[" line="177" column="9" />
+        <mark key="]" line="126" column="54" />
+        <mark key="^" line="126" column="54" />
+        <mark key="." line="126" column="54" />
+      </file>
+      <file name="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/admin/sqlreport/SQLReportItemExcelResult.jsp" timestamp="1645494421414">
+        <mark key="[" line="14" column="81" />
+      </file>
+      <file name="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/m/courseware/PackageCourseDetail.jsp" timestamp="1645595641488">
+        <mark key="'" line="596" column="23" />
+        <mark key="[" line="75" column="41" />
+        <mark key="]" line="720" column="0" />
+        <mark key="." line="720" column="0" />
+      </file>
+      <file name="D:/xgzhang/java/workspace/git/moti-cloud/src/main/java/com/moti/utils/MailUtils.java" timestamp="1645688101300">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="56" column="39" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="32" column="30" />
+      </file>
+      <file name="/fragment.java" timestamp="1645514172562">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="119" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/tools/forum/actions/KMAction.java" />
+      <jump line="126" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/tools/forum/actions/KMAction.java" />
+      <jump line="128" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/tools/forum/actions/KMAction.java" />
+      <jump line="132" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/tools/forum/actions/KMAction.java" />
+      <jump line="149" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/tools/forum/actions/KMAction.java" />
+      <jump line="154" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/tools/forum/actions/KMAction.java" />
+      <jump line="67" column="29" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/layouts/portal.jsp" />
+      <jump line="228" column="9" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/docs/tools.txt" />
+      <jump line="13" column="73" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/layouts/portal.jsp" />
+      <jump line="1018" column="10" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/layouts/portal.jsp" />
+      <jump line="1059" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/layouts/portal.jsp" />
+      <jump line="1020" column="8" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/layouts/portal.jsp" />
+      <jump line="1007" column="8" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/layouts/portal.jsp" />
+      <jump line="1019" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/layouts/portal.jsp" />
+      <jump line="1006" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/layouts/portal.jsp" />
+      <jump line="1068" column="6" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/layouts/portal.jsp" />
+      <jump line="0" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/layouts/portal.jsp" />
+      <jump line="522" column="32" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/crowd/Crowd.java" />
+      <jump line="38" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/crowd/Crowd.java" />
+      <jump line="89" column="13" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/courseware/actions/CoursewareAction.java" />
+      <jump line="0" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/admin/vendor/VendorViewteacher.jsp" />
+      <jump line="75" column="17" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/admin/vendor/VendorViewteacher.jsp" />
+      <jump line="1380" column="41" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/test/exam/PaperDAO.java" />
+      <jump line="82" column="29" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/admin/vendor/VendorViewteacher.jsp" />
+      <jump line="783" column="63" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/admin/courseware/PackageCourseView_content.jsp" />
+      <jump line="692" column="53" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/admin/courseware/PackageCourseView_content.jsp" />
+      <jump line="696" column="61" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/admin/courseware/PackageCourseView_content.jsp" />
+      <jump line="697" column="65" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/admin/courseware/PackageCourseView_content.jsp" />
+      <jump line="699" column="61" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/admin/courseware/PackageCourseView_content.jsp" />
+      <jump line="303" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/docs/tools.txt" />
+      <jump line="162" column="25" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/courseware/actions/CoursewareAction.java" />
+      <jump line="249" column="20" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/vendor/actions/VendorForm.java" />
+      <jump line="187" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/docs/tools.txt" />
+      <jump line="666" column="12" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/trainingStore/js/hdms.js" />
+      <jump line="145" column="57" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/m/cpaper/CPaperNotice.jsp" />
+      <jump line="787" column="11" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/vendor/actions/VendorAction.java" />
+      <jump line="700" column="44" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/admin/courseware/PackageCourseView_content.jsp" />
+      <jump line="709" column="15" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/cpaper/actions/CPaperAction.java" />
+      <jump line="712" column="30" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/cpaper/actions/CPaperAction.java" />
+      <jump line="760" column="19" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/cpaper/actions/CPaperAction.java" />
+      <jump line="761" column="49" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/cpaper/actions/CPaperAction.java" />
+      <jump line="120" column="23" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/cpaper/actions/CPaperAction.java" />
+      <jump line="172" column="59" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/cpaper/actions/CPaperAction.java" />
+      <jump line="23" column="9" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/docs/tools.txt" />
+      <jump line="0" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/admin/tender/TenderManage.jsp" />
+      <jump line="148" column="20" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/m/cpaper/CPaperNotice.jsp" />
+      <jump line="301" column="18" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/docs/tools.txt" />
+      <jump line="314" column="18" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/courseware/Courseware.java" />
+      <jump line="507" column="42" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/tender/actions/TenderAction.java" />
+      <jump line="304" column="9" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/docs/tools.txt" />
+      <jump line="299" column="19" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/docs/tools.txt" />
+      <jump line="450" column="16" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/tools/forum/ForumManager.java" />
+      <jump line="513" column="11" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/tools/forum/ForumManager.java" />
+      <jump line="309" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/docs/tools.txt" />
+      <jump line="23" column="42" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/admin/org/UserImportCheck.jsp" />
+      <jump line="25" column="4" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/org/importer/UserLine.java" />
+      <jump line="510" column="22" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/tools/forum/ForumManager.java" />
+      <jump line="1" column="1" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/portal/icreated/helpModalPage.jsp" />
+      <jump line="38" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/portal/icreated/helpModalPage.jsp" />
+      <jump line="13" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/portal/icreated/helpModalPage.jsp" />
+      <jump line="29" column="44" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/m/tools/forum/KMListfolders.jsp" />
+      <jump line="116" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/test/com/cobocn/hdms/base/Test1.java" />
+      <jump line="22" column="60" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/admin/org/UserImportCheck.jsp" />
+      <jump line="41" column="117" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/admin/org/UserImportCheck.jsp" />
+      <jump line="40" column="32" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/admin/org/UserImportCheck.jsp" />
+      <jump line="29" column="40" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/portal/service/MaintenanceList.jsp" />
+      <jump line="44" column="20" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/portal/service/MaintenanceList.jsp" />
+      <jump line="26" column="16" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/portal/service/MaintenanceList.jsp" />
+      <jump line="86" column="1" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/portal/service/MaintenanceList.jsp" />
+      <jump line="310" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/docs/tools.txt" />
+      <jump line="311" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/docs/tools.txt" />
+      <jump line="313" column="9" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/docs/tools.txt" />
+      <jump line="288" column="1" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/docs/tools.txt" />
+      <jump line="289" column="2" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/docs/tools.txt" />
+      <jump line="290" column="9" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/docs/tools.txt" />
+      <jump line="250" column="21" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/docs/tools.txt" />
+      <jump line="251" column="3" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/docs/tools.txt" />
+      <jump line="246" column="50" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/docs/tools.txt" />
+      <jump line="22" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/docs/tools.txt" />
+      <jump line="194" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/docs/tools.txt" />
+      <jump line="32" column="37" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/portal/service/MaintenanceList.jsp" />
+      <jump line="33" column="58" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/portal/service/MaintenanceList.jsp" />
+      <jump line="162" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/portal/service/MaintenanceList.jsp" />
+      <jump line="10" column="36" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/portal/tile/tileListPage.jsp" />
+      <jump line="8" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/portal/tile/tileListPage.jsp" />
+      <jump line="4" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/portal/tile/tileListPage.jsp" />
+      <jump line="334" column="7" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/docs/tools.txt" />
+      <jump line="0" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/admin/tms/plan/TrainingPlanInfo.jsp" />
+      <jump line="45" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/docs/tools.txt" />
+      <jump line="0" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/docs/tools.txt" />
+      <jump line="0" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/coboHDMS-defs.xml" />
+      <jump line="0" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/admin/courseware/PackageCourseView.jsp" />
+      <jump line="5590" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/hdms.hbm.xml" />
+      <jump line="324" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/docs/tools.txt" />
+      <jump line="32" column="13" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/test/exam/Paper.java" />
+      <jump line="38" column="60" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/docs/tools.txt" />
+      <jump line="20" column="107" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/portal/courseware/IncludeEasyCourseInfo.jsp" />
+      <jump line="595" column="23" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/m/courseware/PackageCourseDetail.jsp" />
+      <jump line="498" column="24" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/tools/forum/ForumManager.java" />
+      <jump line="0" column="0" filename="D:/xgzhang/java/workspace/svn/Elafs/branches/asp/src/com/cobocn/hdms/tools/forum/ForumManager.java" />
+    </jumps>
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="58" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="4">
+        <text>((((  ))))</text>
+      </register>
+      <register name="b" type="4">
+        <keys>
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="c" type="4">
+        <keys>
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="f" type="4">
+        <keys>
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="37" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="67" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="37" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="67" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+        </keys>
+      </register>
+      <register name="j" type="4">
+        <keys>
+          <key char="58" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="*" type="2">
+        <text encoding="base64">IGh0dHA6Ly9zMC5jb2JvLmNuL20vYWpheC9maW5pc2hFYXN5Tm9kZXMuY29ibz9zaXRlPXdlc3RzZWN1JnNlcmlhbD1FQy0yMC0wMDIxJnVzZXJuYW1lPTA3MTQ2Cg==</text>
+      </register>
+      <register name="k" type="4">
+        <keys>
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="67" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="l" type="4">
+        <keys>
+          <key char="47" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="-" type="4">
+        <text>你需要修改此处为你的QQ邮箱</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDwiXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlLnNldEZyb20oIjE0NTQ4NjQ1MzVAcXEuY29tIik7CiAgICAgICAgbWVzc2FnZS5zZXRUbyhhY2NlcHRFbWFpbCk7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHBhc3N3b3JkOiDE49Do0qrQ3rjEtMu0pgogICAgdXJsOiBqZGJjOm15c3FsOi8vMTI3LjAuMC4xOjMzMDYvbW90aS1jbG91ZD9zZXJ2ZXJUaW1lem9uZT1Ib25na29uZyZ1c2VBZmZlY3RlZFJvd3M9dHJ1ZQogICAgZHJpdmVyLWNsYXNzLW5hbWU6IGNvbS5teXNxbC5jai5qZGJjLkRyaXZlcgogICAgdHlwZTogY29tLmFsaWJhYmEuZHJ1aWQucG9vbC5EcnVpZERhdGFTb3VyY2UKICAgICMgxeTWw2RydWlkyv2+3dS0CiAgICBpbml0aWFsU2l6ZTogNQogICAgbWluSWRsZTogNQogICAgbWF4QWN0aXZlOiAyMAogICAgbWF4V2FpdDogNjAwMDAKICAgIHRpbWVCZXR3ZWVuRXZpY3Rpb25SdW5zTWlsbGlzOiA2MDAwMAogICAgbWluRXZpY3RhYmxlSWRsZVRpbWVNaWxsaXM6IDMwMDAwMAogICAgdmFsaWRhdGlvblF1ZXJ5OiBTRUxFQ1QgMSBGUk9NIERVQUwKICAgIHRlc3RXaGlsZUlkbGU6IHRydWUKICAgIHRlc3RPbkJvcnJvdzogZmFsc2UKICAgIHRlc3RPblJldHVybjogZmFsc2UKICAgIHBvb2xQcmVwYXJlZFN0YXRlbWVudHM6IHRydWUKICAgIGZpbHRlcnM6IHN0YXQsd2FsbCxsb2c0agogICAgbWF4UG9vbFByZXBhcmVkU3RhdGVtZW50UGVyQ29ubmVjdGlvblNpemU6IDIwCg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHVzZXJuYW1lOiByb290CiAgICBwYXNzd29yZDogxOPQ6NKq0N64xLTLtKYK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">c291cmNlICAnRDpceGd6aGFuZ1xqYXZhXHdvcmtzcGFjZVxnaXRcbW90aS1jbG91ZFxzcWy9xbG+XG1vdGktY2xvdWQuc3FsJwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="t" type="4">
+        <keys>
+          <key char="58" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aW55bWNlLmFjdGl2ZUVkaXRvci5mb2N1cygpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="v" type="4">
+        <keys>
+          <key char="58" code="0" mods="0" />
+          <key char="37" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="67" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="67" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+        </keys>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZighaXNFZGl0KXsK</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="37" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="67" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="37" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="67" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaXNFZGl0ID0gdHJ1ZTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvL3ZhciBjdXJzb3J0UG9zaXRpb24gPSBnZXRDdXJzb3J0UG9zaXRpb24oaW5wdXRPYmpbMF0pOwo=</text>
+      </register>
+      <register name="y" type="4">
+        <text>d</text>
+      </register>
+      <register name=":" type="4">
+        <text>so ~/.ideavimrc</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDwiXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDwiXD4=</last-pattern>
+      <last-replace>ext1</last-replace>
+      <last-substitute>mobile</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>”</entry>
+        <entry>“</entry>
+        <entry>满分$$$1$$$</entry>
+        <entry encoding="base64">PHRpbGVzOmFkZA==</entry>
+        <entry encoding="base64">PFwvdGlsZXM6YWRk</entry>
+        <entry>hdms:tableCell</entry>
+        <entry>tiles:add</entry>
+        <entry>text=&quot;&quot;</entry>
+        <entry>bootbox</entry>
+        <entry>mobile</entry>
+        <entry encoding="base64">XDxjcGhhc2UzXD4=</entry>
+        <entry encoding="base64">XDxwYXJhbVw+</entry>
+        <entry>邀请</entry>
+        <entry encoding="base64">XDxpc1BhcGVyUGFzc2VkT25lVGltZVw+</entry>
+        <entry>addAll</entry>
+        <entry encoding="base64">XDxlZGl0b3JcPg==</entry>
+        <entry encoding="base64">XDxpc0NhbXBcPg==</entry>
+        <entry>s</entry>
+        <entry>&quot;</entry>
+        <entry encoding="base64">XDwiXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">bWFwIGdtIDpjYWxsIGN1cnNvcigwLCB2aXJ0Y29sKCckJykvMik8Q1I+</entry>
+        <entry>exe 'normal '.(virtcol('$')/2).'|'</entry>
+        <entry>call cursor(0, virtcol('$')/2)</entry>
+        <entry>action NewFile</entry>
+        <entry>action GotoSymbol</entry>
+        <entry>set surround</entry>
+        <entry>action $Copy</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action ShowUsages</entry>
+        <entry>#</entry>
+        <entry>action ActivateMavenProjectsToolWindow</entry>
+        <entry>action HideActiveWindow</entry>
+        <entry>action Find</entry>
+        <entry>action $Cut</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action ShowFilePath</entry>
+        <entry>action $Paste</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>so ~/.ideavimrc</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
