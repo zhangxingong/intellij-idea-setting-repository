@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="单点登录" />
+      <item value="接入" />
       <item value="wrap" />
       <item value="bracket" />
       <item value="set Status" />
@@ -49,8 +51,6 @@
       <item value="发布时间" />
       <item value="首发" />
       <item value="首发时间" />
-      <item value="torun" />
-      <item value="LINK COURSE" />
     </histories>
   </component>
 </application>
