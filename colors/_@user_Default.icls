@@ -3,13 +3,19 @@
     <property name="created">2018-02-23T09:11:02</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2022-04-15T13:38:02</property>
+    <property name="modified">2022-08-25T14:52:24</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="30" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="30" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="30" />
+  </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="f0f0f0" />
   </colors>
