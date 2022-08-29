@@ -1,20 +1,7 @@
 <application>
   <component name="DiffManager" COMPARISON_POLICY="Ignore spaces" />
-  <component name="DiffSettings">
-    <option name="PLACES_MAP">
-      <entry key="CommitDialog">
-        <PlaceSettings />
-      </entry>
-      <entry key="Default">
-        <PlaceSettings />
-      </entry>
-      <entry key="DirDiff">
-        <PlaceSettings />
-      </entry>
-      <entry key="Merge">
-        <PlaceSettings />
-      </entry>
-    </option>
+  <component name="ExternalDiffSettings">
+    <option name="MIGRATE_OLD_SETTINGS" value="true" />
   </component>
   <component name="SvnDiffSettings">
     <option name="PLACES_MAP">
