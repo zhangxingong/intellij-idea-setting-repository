@@ -1,0 +1,24 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="244" />
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="551" />
+    <option name="newTranslationDialogY" value="0" />
+    <histories>
+      <item value="spell" />
+      <item value="se" />
+      <item value="s" />
+      <item value="sp" />
+      <item value="nihao" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1661823751201" />
+  </component>
+</application>
