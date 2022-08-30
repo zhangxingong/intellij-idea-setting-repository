@@ -1,5 +1,3 @@
 <application>
-  <component name="NotificationConfiguration" showBalloons="false" systemNotifications="false">
-    <notification groupId="Platform and Plugin Updates" displayType="NONE" shouldLog="false" />
-  </component>
+  <component name="NotificationConfiguration" showBalloons="false" />
 </application>

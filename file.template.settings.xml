@@ -1,0 +1,11 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="hibernate.cfg.xml.xml" reformat="true" live-template-enabled="true" />
+    </default_templates>
+    <internal_templates>
+      <template name="TestMe with JUnit4 &amp; Mockito.java" reformat="false" live-template-enabled="false" enabled="true" />
+      <template name="TestMe with TestNG &amp; Mockito.java" reformat="false" live-template-enabled="false" enabled="true" />
+    </internal_templates>
+  </component>
+</application>

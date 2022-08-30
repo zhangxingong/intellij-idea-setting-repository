@@ -1,5 +1,6 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
@@ -82,9 +83,14 @@
     </filter>
   </component>
   <component name="XDebuggerSettings">
-    <data-views>
-      <show-values-inline>false</show-values-inline>
-    </data-views>
+    <data-views />
     <general />
+    <debuggers>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+    </debuggers>
   </component>
 </application>

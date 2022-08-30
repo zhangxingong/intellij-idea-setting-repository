@@ -1,5 +1,9 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists />
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.cobocn.hdms.security.SecurityDispatchAction.forward(mapping,form,request,response,param0,spg)" />
+      </blacklist>
+    </blacklists>
   </component>
 </application>

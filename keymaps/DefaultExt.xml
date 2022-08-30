@@ -1,20 +1,14 @@
 <keymap version="1" name="DefaultExt" parent="$default">
-  <action id="CompareTwoFiles" />
-  <action id="Diff.ShowDiff">
-    <keyboard-shortcut first-keystroke="shift d" />
-  </action>
-  <action id="EditorDuplicate" />
-  <action id="EditorDuplicateLines">
-    <keyboard-shortcut first-keystroke="ctrl d" />
-  </action>
   <action id="EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
-  <action id="FileChooser.GotoDesktop" />
-  <action id="QuickJavaDoc">
-    <mouse-shortcut keystroke="alt button2" />
+  <action id="FileChooser.NewFile">
+    <keyboard-shortcut first-keystroke="ctrl alt numpad0" />
   </action>
-  <action id="SendEOF" />
+  <action id="JavaToGroovy">
+    <keyboard-shortcut first-keystroke="shift meta g" />
+    <keyboard-shortcut first-keystroke="shift g" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -29,12 +23,6 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
-  </action>
-  <action id="Tool_External Tools_gvim">
-    <keyboard-shortcut first-keystroke="shift alt e" />
-  </action>
-  <action id="VimPluginToggle">
-    <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
   <action id="emacsIDEAs.AceJump">
     <keyboard-shortcut first-keystroke="alt comma" />
