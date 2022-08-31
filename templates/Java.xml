@@ -27,11 +27,8 @@
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="route" value=" public ActionForward $varName$(ActionMapping mapping, ActionForm hdmsform,&#10;                                HttpServletRequest request, HttpServletResponse response)&#10;            throws Exception {&#10;     $var$ form = ($var$) hdmsform;&#10;     return forward(mapping, form, request, response, &quot;&quot;, true);        &#10;}" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="varName" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
+  <template name="route" value=" public ActionForward $NAME$(ActionMapping mapping, ActionForm aform,&#10;                               HttpServletRequest request, HttpServletResponse response)&#10;            throws Exception {&#10;        $CLASS$  form = ($CLASS$) aform;&#10;        return forward(mapping, form, request, response, &quot;&quot;, true);&#10;    }" description="struts1 route head" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
   </template>
 </templateSet>

@@ -1,0 +1,23 @@
+<application>
+  <component name="PowerModeII">
+    <option name="blueFrom" value="96" />
+    <option name="blueTo" value="205" />
+    <option name="customBamImageFolder" value="C:\Users\xgzhang\Pictures\Camera Roll" />
+    <option name="customBamImages" value="true" />
+    <option name="customFlameImageFolder" value="C:\Users\xgzhang\Pictures\Camera Roll" />
+    <option name="customFlameImages" value="true" />
+    <option name="enabled" value="false" />
+    <option name="frameRate" value="45" />
+    <option name="greenFrom" value="30" />
+    <option name="greenTo" value="191" />
+    <option name="heatupThreshold" value="1" />
+    <option name="keyStrokesPerMinute" value="339" />
+    <option name="redFrom" value="30" />
+    <option name="redTo" value="150" />
+    <option name="shakeRange" value="3" />
+    <option name="soundsFolder" value="D:\coboASP\jdk\jre\bin" />
+    <option name="sparkCount" value="12" />
+    <option name="sparkLife" value="2390" />
+    <option name="sparkVelocityFactor" value="5.25" />
+  </component>
+</application>
