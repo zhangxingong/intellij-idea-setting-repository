@@ -30,9 +30,13 @@
           <option name="url" value="https://github.com/zhangxingong/autoReplaceStructure.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zhangxingong/intellij-idea-setting-repository.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Java\projects\Dev_Doc" />
+    <option name="cloneParentDir" value="D:\xgzhang\java\workspace\git" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
