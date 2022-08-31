@@ -3,14 +3,16 @@
     <property name="created">2022-08-30T18:07:29</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.1.0.0</property>
-    <property name="modified">2022-08-31T11:31:03</property>
+    <property name="modified">2022-08-31T11:52:24</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="fcfaed" />
-    <option name="FOLDED_TEXT_BORDER_COLOR" value="b3b3b3" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="f2f2f2" />
-    <option name="LINE_NUMBERS_COLOR" value="adadad" />
+    <option name="LINE_NUMBERS_COLOR" value="0" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ffffff" />
+    <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="TEARLINE_COLOR" value="d4d4d4" />
   </colors>
   <attributes>
@@ -319,7 +321,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="80808" />
-        <option name="BACKGROUND" value="e6ebf0" />
+        <option name="BACKGROUND" value="f2f2f2" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
