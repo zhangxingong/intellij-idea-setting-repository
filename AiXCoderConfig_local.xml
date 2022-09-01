@@ -1,5 +1,7 @@
 <application>
   <component name="ConfigState">
+    <option name="theme" value="白色" />
+    <option name="tips_position" value="0" />
     <option name="longNum" value="自动" />
     <option name="uninstallFlag" value="false" />
   </component>
