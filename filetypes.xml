@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="rar" type="ARCHIVE" />
       <mapping ext="setting" type="PLAIN_TEXT" />
+      <removed_mapping ext="ng" approved="true" type="HTML" />
     </extensionMap>
   </component>
 </application>
