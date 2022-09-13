@@ -3,10 +3,14 @@
     <option name="ideInstallationStorage">
       <map>
         <entry key="com.zeroturnaround.jrebel.FormatVersion" value="7.0.0" />
-        <entry key="com.zeroturnaround.jrebel.intellij.autocompile.enabled" value="true" />
+        <entry key="com.zeroturnaround.jrebel.NoExternalAutoconvert" value="false" />
+        <entry key="com.zeroturnaround.jrebel.ide.RemoteServerIdCounter" value="0" />
+        <entry key="com.zeroturnaround.jrebel.ide.RemoteServers" value="{&quot;RemoteServers&quot;:[]}" />
+        <entry key="com.zeroturnaround.jrebel.intellij.autocompile.enabled" value="false" />
         <entry key="com.zeroturnaround.jrebel.intellij.autocompile.feature-seen" value="true" />
-        <entry key="com.zeroturnaround.jrebel.intellij.autosave.enabled" value="true" />
+        <entry key="com.zeroturnaround.jrebel.intellij.autosave.enabled" value="false" />
         <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2022.3.2" />
+        <entry key="com.zeroturnaround.jrebel.remoting.SyncOnBuild" value="false" />
       </map>
     </option>
   </component>
