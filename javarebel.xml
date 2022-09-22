@@ -9,7 +9,7 @@
         <entry key="com.zeroturnaround.jrebel.intellij.autocompile.enabled" value="false" />
         <entry key="com.zeroturnaround.jrebel.intellij.autocompile.feature-seen" value="true" />
         <entry key="com.zeroturnaround.jrebel.intellij.autosave.enabled" value="false" />
-        <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2022.3.2" />
+        <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2022.3.0" />
         <entry key="com.zeroturnaround.jrebel.remoting.SyncOnBuild" value="false" />
       </map>
     </option>
