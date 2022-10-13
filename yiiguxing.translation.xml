@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="0" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="重新计算" />
+      <item value="学员" />
+      <item value="升级" />
       <item value="设置" />
       <item value="se'hi" />
       <item value="谁知" />
@@ -54,14 +57,11 @@
       <item value="sp" />
       <item value="brand-new" />
       <item value="brand" />
-      <item value="bran" />
-      <item value="sb" />
-      <item value="study up" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="103" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
