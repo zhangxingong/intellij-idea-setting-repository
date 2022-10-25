@@ -1,12 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="320" />
-    <option name="newTranslationDialogWidth" value="638" />
+    <option name="newTranslationDialogHeight" value="313" />
+    <option name="newTranslationDialogWidth" value="634" />
     <option name="newTranslationDialogX" value="551" />
     <option name="newTranslationDialogY" value="0" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ignore" />
+      <item value="忽略" />
       <item value="check" />
       <item value="打卡成功" />
       <item value="相对" />
@@ -55,18 +57,16 @@
       <item value="tesk" />
       <item value="specificall" />
       <item value="specifically" />
-      <item value="speci" />
-      <item value="spe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="106" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="108" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666145876443" />
+    <option name="lastTrimTime" value="1666689891080" />
   </component>
 </application>
