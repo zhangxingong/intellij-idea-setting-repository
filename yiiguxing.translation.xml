@@ -1,67 +1,66 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="291" />
-    <option name="newTranslationDialogWidth" value="618" />
+    <option name="newTranslationDialogHeight" value="223" />
+    <option name="newTranslationDialogWidth" value="598" />
     <option name="newTranslationDialogX" value="551" />
     <option name="newTranslationDialogY" value="0" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Desperate" />
-      <item value="Despe" />
-      <item value="Des" />
-      <item value="De" />
-      <item value="Retweet" />
-      <item value="Awesome" />
-      <item value="podca" />
-      <item value="podcast" />
-      <item value="quantity" />
-      <item value="v" />
-      <item value="sufficient" />
-      <item value="Comprehensible" />
-      <item value="Suffering" />
-      <item value="inevitable" />
-      <item value="expertise" />
-      <item value="expertis" />
-      <item value="e" />
-      <item value="beyond expertise" />
-      <item value="beyond exper" />
-      <item value="beyond " />
-      <item value="bey" />
-      <item value="by" />
-      <item value="learn deliberately" />
-      <item value="deliberately" />
-      <item value="delibera" />
-      <item value="delibe" />
-      <item value="del" />
-      <item value="stuff" />
-      <item value="sta" />
-      <item value="claim" />
-      <item value="cla" />
-      <item value="claims" />
-      <item value="clas" />
-      <item value="claimsed" />
-      <item value="manufacturers" />
-      <item value="manufacture" />
-      <item value="manufact" />
-      <item value="manufac" />
-      <item value="manu" />
-      <item value="designations" />
-      <item value="desig" />
-      <item value="des" />
-      <item value="wetware" />
-      <item value="pragmatic thinking" />
-      <item value="pragmatic thin" />
+      <item value="verbal" />
+      <item value="overal" />
+      <item value="ov" />
+      <item value="dual" />
+      <item value="master" />
+      <item value="indentify" />
+      <item value="indent" />
+      <item value="rate" />
+      <item value="mirror" />
+      <item value="miro" />
+      <item value="beware" />
+      <item value="too" />
+      <item value="trap" />
+      <item value="remain" />
+      <item value="rem" />
+      <item value="dreyfus" />
+      <item value="dre" />
+      <item value="d" />
+      <item value="sad" />
+      <item value="sda" />
+      <item value="relevant" />
+      <item value="relev" />
+      <item value="rele" />
+      <item value="rules" />
+      <item value="ru" />
+      <item value="rulles" />
+      <item value="rull" />
+      <item value="intuition" />
+      <item value="intu" />
+      <item value="in" />
+      <item value="indeed" />
+      <item value="capacity" />
+      <item value="capa" />
+      <item value="proficient" />
+      <item value="profici" />
+      <item value="profi" />
+      <item value="pro" />
+      <item value="initiative" />
+      <item value="initia" />
+      <item value="ini" />
+      <item value="typically" />
+      <item value="typ" />
+      <item value="folks" />
+      <item value="fo'l" />
+      <item value="practitioner" />
+      <item value="practi" />
       <item value="pra" />
-      <item value="pragmatic" />
-      <item value="prag" />
-      <item value="pr" />
-      <item value="p" />
+      <item value="novice" />
+      <item value="irrelevant" />
+      <item value="irrelev" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="145" />
-        <entry key="ENGLISH" value="135" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="202" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
