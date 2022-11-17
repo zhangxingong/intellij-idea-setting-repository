@@ -1,12 +1,48 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="313" />
-    <option name="newTranslationDialogWidth" value="634" />
+    <option name="newTranslationDialogHeight" value="301" />
+    <option name="newTranslationDialogWidth" value="630" />
     <option name="newTranslationDialogX" value="551" />
     <option name="newTranslationDialogY" value="0" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="expertise" />
+      <item value="expertis" />
+      <item value="e" />
+      <item value="beyond expertise" />
+      <item value="beyond exper" />
+      <item value="beyond " />
+      <item value="bey" />
+      <item value="by" />
+      <item value="learn deliberately" />
+      <item value="deliberately" />
+      <item value="delibera" />
+      <item value="delibe" />
+      <item value="del" />
+      <item value="stuff" />
+      <item value="sta" />
+      <item value="claim" />
+      <item value="cla" />
+      <item value="claims" />
+      <item value="clas" />
+      <item value="claimsed" />
+      <item value="manufacturers" />
+      <item value="manufacture" />
+      <item value="manufact" />
+      <item value="manufac" />
+      <item value="manu" />
+      <item value="designations" />
+      <item value="desig" />
+      <item value="des" />
+      <item value="wetware" />
+      <item value="pragmatic thinking" />
+      <item value="pragmatic thin" />
+      <item value="pra" />
+      <item value="pragmatic" />
+      <item value="prag" />
+      <item value="pr" />
+      <item value="p" />
       <item value="ignore" />
       <item value="忽略" />
       <item value="check" />
@@ -21,52 +57,16 @@
       <item value="计算方式" />
       <item value="媒体" />
       <item value="倍速" />
-      <item value="bei'su" />
-      <item value="be" />
-      <item value="muted" />
-      <item value="utilities" />
-      <item value="Flex" />
-      <item value="周" />
-      <item value="YEAR" />
-      <item value="qualification" />
-      <item value="合格" />
-      <item value="wgst" />
-      <item value="horizontally" />
-      <item value="同步" />
-      <item value="推送" />
-      <item value="秒数" />
-      <item value="test" />
-      <item value="aa" />
-      <item value="d" />
-      <item value="e" />
-      <item value="Artifact" />
-      <item value="demand" />
-      <item value="deman" />
-      <item value="test-taking" />
-      <item value="test=" />
-      <item value="mock" />
-      <item value="irreveren" />
-      <item value="irreverent" />
-      <item value="irreverent&#10;" />
-      <item value="irrevrent" />
-      <item value="irrev" />
-      <item value="irr" />
-      <item value="irreve" />
-      <item value="i" />
-      <item value="tes" />
-      <item value="tesk" />
-      <item value="specificall" />
-      <item value="specifically" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="CHINESE" value="131" />
+        <entry key="ENGLISH" value="123" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666689891080" />
+    <option name="lastTrimTime" value="1668654695827" />
   </component>
 </application>
