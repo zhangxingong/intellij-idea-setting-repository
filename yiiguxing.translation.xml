@@ -2,11 +2,17 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="291" />
-    <option name="newTranslationDialogWidth" value="630" />
+    <option name="newTranslationDialogWidth" value="618" />
     <option name="newTranslationDialogX" value="551" />
     <option name="newTranslationDialogY" value="0" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Desperate" />
+      <item value="Despe" />
+      <item value="Des" />
+      <item value="De" />
+      <item value="Retweet" />
+      <item value="Awesome" />
       <item value="podca" />
       <item value="podcast" />
       <item value="quantity" />
@@ -51,17 +57,11 @@
       <item value="prag" />
       <item value="pr" />
       <item value="p" />
-      <item value="ignore" />
-      <item value="忽略" />
-      <item value="check" />
-      <item value="打卡成功" />
-      <item value="相对" />
-      <item value="重新计算" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="140" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="CHINESE" value="145" />
+        <entry key="ENGLISH" value="135" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
