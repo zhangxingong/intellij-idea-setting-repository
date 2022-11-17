@@ -1,12 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="301" />
+    <option name="newTranslationDialogHeight" value="291" />
     <option name="newTranslationDialogWidth" value="630" />
     <option name="newTranslationDialogX" value="551" />
     <option name="newTranslationDialogY" value="0" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="podcast" />
+      <item value="quantity" />
+      <item value="v" />
+      <item value="sufficient" />
+      <item value="Comprehensible" />
+      <item value="Suffering" />
+      <item value="inevitable" />
       <item value="expertise" />
       <item value="expertis" />
       <item value="e" />
@@ -50,18 +57,11 @@
       <item value="相对" />
       <item value="重新计算" />
       <item value="学员" />
-      <item value="升级" />
-      <item value="设置" />
-      <item value="se'hi" />
-      <item value="谁知" />
-      <item value="计算方式" />
-      <item value="媒体" />
-      <item value="倍速" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="CHINESE" value="140" />
+        <entry key="ENGLISH" value="131" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
