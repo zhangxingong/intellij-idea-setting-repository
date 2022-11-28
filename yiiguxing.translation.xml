@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="223" />
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="551" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="explicit" />
+      <item value="novice" />
+      <item value="optimized" />
       <item value="stuff" />
       <item value="verbal" />
       <item value="overal" />
@@ -53,19 +56,16 @@
       <item value="fo'l" />
       <item value="practitioner" />
       <item value="practi" />
-      <item value="pra" />
-      <item value="novice" />
-      <item value="irrelevant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="218" />
+        <entry key="CHINESE" value="221" />
         <entry key="ENGLISH" value="204" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668654695827" />
+    <option name="lastTrimTime" value="1669600170930" />
   </component>
 </application>
