@@ -1,11 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="223" />
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogHeight" value="220" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="551" />
     <option name="newTranslationDialogY" value="0" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="decline" />
+      <item value="hereby" />
+      <item value="consequently" />
+      <item value="consequ" />
+      <item value="consen" />
+      <item value="cono" />
+      <item value="koan-like" />
+      <item value="motto" />
       <item value="explicit" />
       <item value="novice" />
       <item value="optimized" />
@@ -48,24 +57,16 @@
       <item value="profi" />
       <item value="pro" />
       <item value="initiative" />
-      <item value="initia" />
-      <item value="ini" />
-      <item value="typically" />
-      <item value="typ" />
-      <item value="folks" />
-      <item value="fo'l" />
-      <item value="practitioner" />
-      <item value="practi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="221" />
-        <entry key="ENGLISH" value="204" />
+        <entry key="CHINESE" value="227" />
+        <entry key="ENGLISH" value="209" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1669600170930" />
+    <option name="lastTrimTime" value="1671008905720" />
   </component>
 </application>
