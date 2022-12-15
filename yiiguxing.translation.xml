@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="0" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="exclusively" />
       <item value="concerned" />
       <item value="mechanism" />
       <item value="prematurely" />
@@ -56,12 +57,11 @@
       <item value="rull" />
       <item value="intuition" />
       <item value="intu" />
-      <item value="in" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="CHINESE" value="236" />
+        <entry key="ENGLISH" value="217" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
