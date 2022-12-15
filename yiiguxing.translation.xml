@@ -1,12 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="220" />
-    <option name="newTranslationDialogWidth" value="582" />
+    <option name="newTranslationDialogHeight" value="219" />
+    <option name="newTranslationDialogWidth" value="578" />
     <option name="newTranslationDialogX" value="551" />
     <option name="newTranslationDialogY" value="0" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="concerned" />
+      <item value="mechanism" />
+      <item value="prematurely" />
+      <item value="indivisible" />
+      <item value="physical" />
+      <item value="Incidentally" />
+      <item value="indiscriminately" />
+      <item value="v" />
       <item value="decline" />
       <item value="hereby" />
       <item value="consequently" />
@@ -49,19 +57,11 @@
       <item value="intuition" />
       <item value="intu" />
       <item value="in" />
-      <item value="indeed" />
-      <item value="capacity" />
-      <item value="capa" />
-      <item value="proficient" />
-      <item value="profici" />
-      <item value="profi" />
-      <item value="pro" />
-      <item value="initiative" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="CHINESE" value="235" />
+        <entry key="ENGLISH" value="216" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
