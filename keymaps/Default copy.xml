@@ -14,6 +14,9 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="Tool_External Tools_gvim">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="emacsIDEAs.AceJumpSelect" />
   <action id="emacsIDEAs.AceJumpWord">
     <keyboard-shortcut first-keystroke="meta l" />
