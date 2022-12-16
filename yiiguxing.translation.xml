@@ -2,11 +2,15 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="219" />
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="574" />
     <option name="newTranslationDialogX" value="551" />
     <option name="newTranslationDialogY" value="0" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="b" />
+      <item value="blame" />
+      <item value="amend" />
+      <item value="a" />
       <item value="exclusively" />
       <item value="concerned" />
       <item value="mechanism" />
@@ -53,15 +57,11 @@
       <item value="rele" />
       <item value="rules" />
       <item value="ru" />
-      <item value="rulles" />
-      <item value="rull" />
-      <item value="intuition" />
-      <item value="intu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="236" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="239" />
+        <entry key="ENGLISH" value="220" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
