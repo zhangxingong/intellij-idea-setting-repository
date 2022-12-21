@@ -2,10 +2,16 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="219" />
-    <option name="newTranslationDialogWidth" value="570" />
+    <option name="newTranslationDialogWidth" value="566" />
     <option name="newTranslationDialogX" value="551" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="corrupted" />
+      <item value="corrupt" />
+      <item value="corrup" />
+      <item value="corr" />
+      <item value="cor" />
+      <item value="co" />
       <item value="craft" />
       <item value="exponential" />
       <item value="exponenti" />
@@ -50,16 +56,10 @@
       <item value="rate" />
       <item value="mirror" />
       <item value="miro" />
-      <item value="beware" />
-      <item value="too" />
-      <item value="trap" />
-      <item value="remain" />
-      <item value="rem" />
-      <item value="dreyfus" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="245" />
+        <entry key="CHINESE" value="246" />
         <entry key="ENGLISH" value="223" />
         <entry key="JAPANESE" value="1" />
       </map>
