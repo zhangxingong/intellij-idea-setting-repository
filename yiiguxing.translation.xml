@@ -6,6 +6,12 @@
     <option name="newTranslationDialogX" value="551" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="faulty" />
+      <item value="fa" />
+      <item value="infinite" />
+      <item value="infini" />
+      <item value="infi" />
+      <item value="in" />
       <item value="blame" />
       <item value="reveal" />
       <item value="reveal&#10;" />
@@ -50,22 +56,16 @@
       <item value="explicit" />
       <item value="novice" />
       <item value="optimized" />
-      <item value="stuff" />
-      <item value="verbal" />
-      <item value="overal" />
-      <item value="ov" />
-      <item value="dual" />
-      <item value="master" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="226" />
+        <entry key="CHINESE" value="256" />
+        <entry key="ENGLISH" value="227" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1671505520693" />
+    <option name="lastTrimTime" value="1672016767303" />
   </component>
 </application>
