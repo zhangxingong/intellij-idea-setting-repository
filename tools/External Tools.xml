@@ -23,7 +23,7 @@
   <tool name="emacs" description="emacs" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="C:\Program Files\Emacs\x86_64\bin\emacs.exe" />
-      <option name="PARAMETERS" value="+$LineNumber$ $FilePath$  " />
+      <option name="PARAMETERS" value="-q -batch +$LineNumber$ $FilePath$  " />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
