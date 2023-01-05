@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="0" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="habit" />
       <item value="gain" />
       <item value="obtain" />
       <item value="获得" />
@@ -56,11 +57,10 @@
       <item value="consen" />
       <item value="cono" />
       <item value="koan-like" />
-      <item value="motto" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="258" />
+        <entry key="CHINESE" value="259" />
         <entry key="ENGLISH" value="229" />
         <entry key="JAPANESE" value="1" />
       </map>
