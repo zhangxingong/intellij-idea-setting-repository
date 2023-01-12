@@ -1,7 +1,10 @@
 <application>
   <component name="RainbowSettings">
+    <option name="bigFilesLinesThreshold" value="1500" />
     <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
+    <option name="doNOTRainbowifyTemplateString" value="true" />
     <option name="doNOTRainbowifyTheFirstLevel" value="true" />
+    <option name="suppressBigFileCheck" value="true" />
     <option name="useColorGenerator" value="true" />
     <option name="version" value="2023.1.0-ij" />
   </component>
