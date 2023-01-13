@@ -24,7 +24,7 @@
     <exec>
       <option name="COMMAND" value="D:\xgzhang\emacs-28.2\bin\emacsclient.exe" />
       <option name="PARAMETERS" value="+$LineNumber$:$ColumnNumber$ $FilePath$" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+      <option name="WORKING_DIRECTORY" value="/" />
     </exec>
   </tool>
 </toolSet>
