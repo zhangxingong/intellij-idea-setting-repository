@@ -9,10 +9,10 @@
     <mask>*html</mask>
     <mask>*.</mask>
     <mask>*.js</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
-    <mask>*.html</mask>
     <mask>*</mask>
+    <mask>*.java</mask>
+    <mask>*.html</mask>
     <mask>*.jsp</mask>
   </component>
 </application>
