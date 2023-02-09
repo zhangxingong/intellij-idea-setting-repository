@@ -1,8 +1,11 @@
 <application>
   <component name="ConfigState">
-    <option name="theme" value="白色" />
+    <option name="theme" value="Auto" />
     <option name="tips_position" value="0" />
-    <option name="longNum" value="自动" />
+    <option name="longSort" value="false" />
+    <option name="longNum" value="Auto" />
+    <option name="selectItem" value="Auto" />
+    <option name="projectLoading" value="Yes" />
     <option name="uninstallFlag" value="false" />
   </component>
 </application>
