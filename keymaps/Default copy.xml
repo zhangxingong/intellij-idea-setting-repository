@@ -1,4 +1,5 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="DatabaseView.Tools.SubmitChanges" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -26,6 +27,7 @@
   <action id="Tool_External Tools_vscode">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
