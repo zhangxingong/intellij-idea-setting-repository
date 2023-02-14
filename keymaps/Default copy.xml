@@ -26,6 +26,9 @@
   <action id="Tool_External Tools_vscode">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="emacsIDEAs.AceJumpSelect" />
   <action id="emacsIDEAs.AceJumpWord">
     <keyboard-shortcut first-keystroke="meta l" />
