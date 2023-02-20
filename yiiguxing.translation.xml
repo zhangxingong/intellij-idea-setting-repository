@@ -71,10 +71,15 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1675740403040" />
+    <option name="lastTrimTime" value="1676880893841" />
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogX" value="552" />
+    <option name="newTranslationDialogY" value="301" />
     <histories>
+      <item value="从思维混乱" />
+      <item value="想利用半年的时间" />
       <item value="Estimates" />
       <item value="verbatim" />
     </histories>
