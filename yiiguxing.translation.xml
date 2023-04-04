@@ -71,13 +71,14 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1676880893841" />
+    <option name="lastTrimTime" value="1680587523876" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="552" />
     <option name="newTranslationDialogY" value="301" />
     <histories>
+      <item value="要求" />
       <item value="从思维混乱" />
       <item value="想利用半年的时间" />
       <item value="Estimates" />
@@ -85,7 +86,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="1" />
       </map>
     </option>
   </component>
