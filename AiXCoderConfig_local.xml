@@ -8,5 +8,6 @@
     <option name="selectItem" value="Auto" />
     <option name="projectLoading" value="Yes" />
     <option name="uninstallFlag" value="false" />
+    <option name="isShowShadeHint" value="false" />
   </component>
 </application>
