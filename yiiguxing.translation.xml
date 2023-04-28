@@ -74,13 +74,19 @@
     <option name="lastTrimTime" value="1682492355429" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="564" />
+    <option name="newTranslationDialogWidth" value="562" />
     <option name="newTranslationDialogX" value="552" />
     <option name="newTranslationDialogY" value="301" />
     <histories>
+      <item value="bin sort" />
+      <item value="bin" />
+      <item value="Bucket Sort" />
+      <item value="Bucket" />
+      <item value="v" />
+      <item value="rotations" />
+      <item value="Splay" />
       <item value="rear" />
       <item value="wastage" />
-      <item value="v" />
       <item value="homogenous" />
       <item value="process" />
       <item value="Therefore" />
@@ -106,8 +112,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="35" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
