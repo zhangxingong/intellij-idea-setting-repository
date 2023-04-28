@@ -78,6 +78,8 @@
     <option name="newTranslationDialogX" value="552" />
     <option name="newTranslationDialogY" value="301" />
     <histories>
+      <item value="roughly" />
+      <item value="adjacent" />
       <item value="Artificial" />
       <item value="Algorithm" />
       <item value="gap" />
@@ -120,8 +122,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
