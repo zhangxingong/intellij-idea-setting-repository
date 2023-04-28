@@ -74,10 +74,16 @@
     <option name="lastTrimTime" value="1682492355429" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogWidth" value="568" />
     <option name="newTranslationDialogX" value="552" />
     <option name="newTranslationDialogY" value="301" />
     <histories>
+      <item value="wastage" />
+      <item value="v" />
+      <item value="homogenous" />
+      <item value="process" />
+      <item value="Therefore" />
+      <item value="Traversal" />
       <item value="ought" />
       <item value="arbitrary" />
       <item value="deterministic" />
@@ -99,8 +105,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
