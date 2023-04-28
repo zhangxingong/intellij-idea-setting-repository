@@ -74,10 +74,11 @@
     <option name="lastTrimTime" value="1682492355429" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="554" />
+    <option name="newTranslationDialogWidth" value="562" />
     <option name="newTranslationDialogX" value="552" />
     <option name="newTranslationDialogY" value="301" />
     <histories>
+      <item value="Facade" />
       <item value="roughly" />
       <item value="adjacent" />
       <item value="Artificial" />
@@ -122,7 +123,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
+        <entry key="CHINESE" value="55" />
         <entry key="ENGLISH" value="19" />
       </map>
     </option>
