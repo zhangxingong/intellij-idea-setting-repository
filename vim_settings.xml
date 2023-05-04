@@ -106,10 +106,10 @@
       <shortcut-conflict owner="ide">
         <text encoding="base64">cHJlc3NlZCBGOQ==</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text encoding="base64">Y3RybCBwcmVzc2VkIFNFTUlDT0xPTg==</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text encoding="base64">c2hpZnQgY3RybCBwcmVzc2VkIFNFTUlDT0xPTg==</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -127,7 +127,7 @@
       <shortcut-conflict owner="vim">
         <text encoding="base64">YWx0IHByZXNzZWQgTg==</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text encoding="base64">c2hpZnQgcHJlc3NlZCBTUEFDRQ==</text>
       </shortcut-conflict>
     </shortcut-conflicts>
