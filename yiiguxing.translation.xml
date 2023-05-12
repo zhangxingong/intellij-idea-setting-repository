@@ -78,6 +78,7 @@
     <option name="newTranslationDialogX" value="552" />
     <option name="newTranslationDialogY" value="301" />
     <histories>
+      <item value="bound" />
       <item value="comparing" />
       <item value="progn" />
       <item value="sexps&#10;&#10;" />
@@ -127,11 +128,10 @@
       <item value="retrieving" />
       <item value="retrieves" />
       <item value="下架" />
-      <item value="过期" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
+        <entry key="CHINESE" value="77" />
         <entry key="ENGLISH" value="32" />
       </map>
     </option>
