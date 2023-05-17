@@ -74,10 +74,12 @@
     <option name="lastTrimTime" value="1684134813204" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="546" />
+    <option name="newTranslationDialogWidth" value="562" />
     <option name="newTranslationDialogX" value="552" />
     <option name="newTranslationDialogY" value="301" />
     <histories>
+      <item value="intermediate" />
+      <item value="arbitrary" />
       <item value="紊乱" />
       <item value="wen'lu" />
       <item value="混乱" />
@@ -123,15 +125,13 @@
       <item value="Therefore" />
       <item value="Traversal" />
       <item value="ought" />
-      <item value="arbitrary" />
       <item value="deterministic" />
       <item value="behavior" />
       <item value="undetermined" />
-      <item value="capacity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
+        <entry key="CHINESE" value="93" />
         <entry key="ENGLISH" value="46" />
       </map>
     </option>
