@@ -74,10 +74,11 @@
     <option name="lastTrimTime" value="1684134813204" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="562" />
+    <option name="newTranslationDialogWidth" value="558" />
     <option name="newTranslationDialogX" value="552" />
     <option name="newTranslationDialogY" value="301" />
     <histories>
+      <item value="medication" />
       <item value="parentheses" />
       <item value="sexp" />
       <item value="Cyclic" />
@@ -127,11 +128,10 @@
       <item value="rear" />
       <item value="wastage" />
       <item value="homogenous" />
-      <item value="process" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
+        <entry key="CHINESE" value="102" />
         <entry key="ENGLISH" value="48" />
       </map>
     </option>
