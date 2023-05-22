@@ -79,6 +79,7 @@
     <option name="newTranslationDialogX" value="605" />
     <option name="newTranslationDialogY" value="23" />
     <histories>
+      <item value="ring" />
       <item value="Cons" />
       <item value="Cons " />
       <item value="Cons Cells" />
@@ -128,12 +129,11 @@
       <item value="Plot" />
       <item value="pruning" />
       <item value="Facade" />
-      <item value="roughly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="73" />
       </map>
     </option>
   </component>
