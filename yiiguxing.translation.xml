@@ -75,10 +75,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="558" />
+    <option name="newTranslationDialogWidth" value="562" />
     <option name="newTranslationDialogX" value="605" />
     <option name="newTranslationDialogY" value="23" />
     <histories>
+      <item value="Predicates" />
+      <item value="exponential" />
       <item value="clarity" />
       <item value="Consistent" />
       <item value="虚拟的" />
@@ -127,13 +129,11 @@
       <item value="Artificial" />
       <item value="Algorithm" />
       <item value="gap" />
-      <item value="factor" />
-      <item value="shrink" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="134" />
+        <entry key="ENGLISH" value="72" />
       </map>
     </option>
   </component>
