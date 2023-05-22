@@ -79,6 +79,7 @@
     <option name="newTranslationDialogX" value="605" />
     <option name="newTranslationDialogY" value="23" />
     <histories>
+      <item value="Consistent" />
       <item value="虚拟的" />
       <item value="目的" />
       <item value="mu" />
@@ -128,11 +129,10 @@
       <item value="factor" />
       <item value="shrink" />
       <item value="comb" />
-      <item value="com" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
+        <entry key="CHINESE" value="130" />
         <entry key="ENGLISH" value="71" />
       </map>
     </option>
