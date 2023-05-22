@@ -79,6 +79,10 @@
     <option name="newTranslationDialogX" value="605" />
     <option name="newTranslationDialogY" value="23" />
     <histories>
+      <item value="Cons" />
+      <item value="Cons " />
+      <item value="Cons Cells" />
+      <item value="Con" />
       <item value="Predicates" />
       <item value="exponential" />
       <item value="clarity" />
@@ -125,14 +129,10 @@
       <item value="pruning" />
       <item value="Facade" />
       <item value="roughly" />
-      <item value="adjacent" />
-      <item value="Artificial" />
-      <item value="Algorithm" />
-      <item value="gap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="134" />
+        <entry key="CHINESE" value="135" />
         <entry key="ENGLISH" value="72" />
       </map>
     </option>
