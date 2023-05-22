@@ -71,13 +71,22 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684134813204" />
+    <option name="lastTrimTime" value="1684719321611" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="558" />
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="562" />
     <option name="newTranslationDialogX" value="552" />
     <option name="newTranslationDialogY" value="301" />
     <histories>
+      <item value="GETTING THINGS DONE® is a personal productivity methodology that redefines how you approach your life and work." />
+      <item value="how you approach your life and work" />
+      <item value="v" />
+      <item value="approach" />
+      <item value="approa" />
+      <item value="aap" />
+      <item value="elegance" />
+      <item value="app" />
       <item value="medication" />
       <item value="parentheses" />
       <item value="sexp" />
@@ -114,25 +123,17 @@
       <item value="Algorithm" />
       <item value="gap" />
       <item value="factor" />
-      <item value="v" />
       <item value="shrink" />
       <item value="comb" />
       <item value="com" />
       <item value="Comb" />
       <item value="bin sort" />
       <item value="bin" />
-      <item value="Bucket Sort" />
-      <item value="Bucket" />
-      <item value="rotations" />
-      <item value="Splay" />
-      <item value="rear" />
-      <item value="wastage" />
-      <item value="homogenous" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="109" />
+        <entry key="ENGLISH" value="52" />
       </map>
     </option>
   </component>
