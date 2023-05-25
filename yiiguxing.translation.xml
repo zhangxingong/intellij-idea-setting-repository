@@ -75,10 +75,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="558" />
+    <option name="newTranslationDialogWidth" value="554" />
     <option name="newTranslationDialogX" value="605" />
     <option name="newTranslationDialogY" value="23" />
     <histories>
+      <item value="下班" />
+      <item value="上班" />
       <item value="preface" />
       <item value="ring" />
       <item value="Cons" />
@@ -127,13 +129,11 @@
       <item value="维度" />
       <item value="wei'du" />
       <item value="Stuck" />
-      <item value="Plot" />
-      <item value="pruning" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="137" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="87" />
       </map>
     </option>
   </component>
