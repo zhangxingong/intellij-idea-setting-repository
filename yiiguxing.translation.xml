@@ -75,10 +75,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="550" />
+    <option name="newTranslationDialogWidth" value="546" />
     <option name="newTranslationDialogX" value="605" />
     <option name="newTranslationDialogY" value="23" />
     <histories>
+      <item value="canonicalize" />
       <item value="european" />
       <item value="下班" />
       <item value="上班" />
@@ -128,11 +129,10 @@
       <item value="经度" />
       <item value="jing'du" />
       <item value="维度" />
-      <item value="wei'du" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
+        <entry key="CHINESE" value="153" />
         <entry key="ENGLISH" value="87" />
       </map>
     </option>
