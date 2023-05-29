@@ -71,14 +71,21 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684719321611" />
+    <option name="lastTrimTime" value="1685324003237" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="546" />
+    <option name="newTranslationDialogHeight" value="247" />
+    <option name="newTranslationDialogWidth" value="562" />
     <option name="newTranslationDialogX" value="605" />
     <option name="newTranslationDialogY" value="23" />
     <histories>
+      <item value="memorial day" />
+      <item value="memorial" />
+      <item value="memor" />
+      <item value="memoria" />
+      <item value="me" />
+      <item value="memo" />
       <item value="canonicalize" />
       <item value="european" />
       <item value="下班" />
@@ -123,16 +130,10 @@
       <item value="progn" />
       <item value="sexps&#10;&#10;" />
       <item value="sexps" />
-      <item value="synonymous" />
-      <item value="dired" />
-      <item value="ASP-7079" />
-      <item value="经度" />
-      <item value="jing'du" />
-      <item value="维度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="153" />
+        <entry key="CHINESE" value="154" />
         <entry key="ENGLISH" value="87" />
       </map>
     </option>
