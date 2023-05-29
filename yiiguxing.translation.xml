@@ -80,6 +80,8 @@
     <option name="newTranslationDialogX" value="605" />
     <option name="newTranslationDialogY" value="23" />
     <histories>
+      <item value="advising" />
+      <item value="comprehensive" />
       <item value="memorial day" />
       <item value="memorial" />
       <item value="memor" />
@@ -128,13 +130,11 @@
       <item value="bound" />
       <item value="comparing" />
       <item value="progn" />
-      <item value="sexps&#10;&#10;" />
-      <item value="sexps" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="154" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="CHINESE" value="158" />
+        <entry key="ENGLISH" value="90" />
       </map>
     </option>
   </component>
