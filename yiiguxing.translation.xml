@@ -76,10 +76,17 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="247" />
-    <option name="newTranslationDialogWidth" value="558" />
+    <option name="newTranslationDialogWidth" value="562" />
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="302" />
     <histories>
+      <item value="period" />
+      <item value="p" />
+      <item value="a" />
+      <item value="assumd" />
+      <item value="assu" />
+      <item value="wildcards" />
+      <item value="wil" />
       <item value="Assembl" />
       <item value="Assembly" />
       <item value="Assem" />
@@ -123,18 +130,11 @@
       <item value="aap" />
       <item value="elegance" />
       <item value="app" />
-      <item value="medication" />
-      <item value="parentheses" />
-      <item value="sexp" />
-      <item value="Cyclic" />
-      <item value="Vacation" />
-      <item value="Diary" />
-      <item value="babel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="186" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="190" />
+        <entry key="ENGLISH" value="118" />
       </map>
     </option>
   </component>
