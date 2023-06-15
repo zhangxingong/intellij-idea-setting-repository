@@ -76,10 +76,11 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="243" />
-    <option name="newTranslationDialogWidth" value="558" />
+    <option name="newTranslationDialogWidth" value="554" />
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="synchronously" />
       <item value="deprecated" />
       <item value="Syndication" />
       <item value="vampir" />
@@ -129,11 +130,10 @@
       <item value="clarity" />
       <item value="Consistent" />
       <item value="虚拟的" />
-      <item value="目的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
+        <entry key="CHINESE" value="197" />
         <entry key="ENGLISH" value="121" />
       </map>
     </option>
