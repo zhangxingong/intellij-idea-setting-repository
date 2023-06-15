@@ -80,6 +80,7 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="supplied" />
       <item value="synchronously" />
       <item value="deprecated" />
       <item value="Syndication" />
@@ -129,11 +130,10 @@
       <item value="exponential" />
       <item value="clarity" />
       <item value="Consistent" />
-      <item value="虚拟的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="197" />
+        <entry key="CHINESE" value="198" />
         <entry key="ENGLISH" value="121" />
       </map>
     </option>
