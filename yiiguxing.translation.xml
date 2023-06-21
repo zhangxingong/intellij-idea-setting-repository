@@ -71,15 +71,17 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1686535095105" />
+    <option name="lastTrimTime" value="1687314092039" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="243" />
-    <option name="newTranslationDialogWidth" value="554" />
+    <option name="newTranslationDialogWidth" value="686" />
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="冲突" />
+      <item value="占用" />
       <item value="supplied" />
       <item value="synchronously" />
       <item value="deprecated" />
@@ -128,8 +130,6 @@
       <item value="Con" />
       <item value="Predicates" />
       <item value="exponential" />
-      <item value="clarity" />
-      <item value="Consistent" />
     </histories>
     <option name="languageScores">
       <map>
