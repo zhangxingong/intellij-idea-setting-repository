@@ -76,10 +76,13 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="243" />
-    <option name="newTranslationDialogWidth" value="678" />
+    <option name="newTranslationDialogWidth" value="686" />
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="中文" />
+      <item value="乱" />
+      <item value="乱码" />
       <item value="思想" />
       <item value="指定" />
       <item value="冲突" />
@@ -127,9 +130,6 @@
       <item value="preface" />
       <item value="ring" />
       <item value="Cons" />
-      <item value="Cons " />
-      <item value="Cons Cells" />
-      <item value="Con" />
     </histories>
     <option name="languageScores">
       <map>
