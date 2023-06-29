@@ -8,7 +8,6 @@
     <option name="indentGuidesOptions" value="Only selected indent guide" />
     <option name="rainbowVariablesOptionShowed" value="true" />
     <option name="rainbowifyTagNameInXML" value="true" />
-    <option name="showRainbowIndentGuides" value="false" />
     <option name="suppressBigFileCheck" value="true" />
     <option name="useColorGenerator" value="true" />
     <option name="version" value="2023.2.11-ij" />
