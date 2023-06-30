@@ -76,10 +76,12 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="243" />
-    <option name="newTranslationDialogWidth" value="674" />
+    <option name="newTranslationDialogWidth" value="670" />
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="图床" />
+      <item value="tu'chuang" />
       <item value="lexical" />
       <item value="awesome" />
       <item value="a" />
@@ -128,8 +130,6 @@
       <item value="memo" />
       <item value="canonicalize" />
       <item value="european" />
-      <item value="下班" />
-      <item value="上班" />
     </histories>
     <option name="languageScores">
       <map>
