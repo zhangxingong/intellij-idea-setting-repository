@@ -1,12 +1,12 @@
 <application>
   <component name="ConfigState">
-    <option name="theme" value="Auto" />
     <option name="tips_position" value="0" />
     <option name="longSort" value="false" />
     <option name="longNum" value="Auto" />
     <option name="selectItem" value="Auto" />
-    <option name="projectLoading" value="Yes" />
     <option name="uninstallFlag" value="false" />
     <option name="isShowShadeHint" value="false" />
+    <option name="autoRecommendSimilarCode" value="true" />
+    <option name="enableLocalService" value="true" />
   </component>
 </application>
