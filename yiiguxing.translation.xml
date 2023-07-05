@@ -71,15 +71,16 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1687765654906" />
+    <option name="lastTrimTime" value="1688538516638" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="243" />
-    <option name="newTranslationDialogWidth" value="670" />
+    <option name="newTranslationDialogWidth" value="686" />
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="天气" />
       <item value="图床" />
       <item value="tu'chuang" />
       <item value="lexical" />
@@ -129,7 +130,6 @@
       <item value="me" />
       <item value="memo" />
       <item value="canonicalize" />
-      <item value="european" />
     </histories>
     <option name="languageScores">
       <map>
