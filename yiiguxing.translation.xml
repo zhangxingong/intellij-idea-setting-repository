@@ -71,15 +71,16 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1688538516638" />
+    <option name="lastTrimTime" value="1689043846803" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="243" />
-    <option name="newTranslationDialogWidth" value="686" />
+    <option name="newTranslationDialogWidth" value="682" />
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="午饭" />
       <item value="独立考试" />
       <item value="du'lu" />
       <item value="发票" />
@@ -129,7 +130,6 @@
       <item value="memorial day" />
       <item value="memorial" />
       <item value="memor" />
-      <item value="memoria" />
     </histories>
     <option name="languageScores">
       <map>
