@@ -71,15 +71,19 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1690965819417" />
+    <option name="lastTrimTime" value="1692674203160" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="235" />
-    <option name="newTranslationDialogWidth" value="666" />
+    <option name="newTranslationDialogWidth" value="662" />
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="折叠" />
+      <item value="这地的" />
+      <item value="zip" />
+      <item value="zap" />
       <item value="blend" />
       <item value="山羊" />
       <item value="shan'yang" />
@@ -126,15 +130,11 @@
       <item value="Assembly" />
       <item value="Assem" />
       <item value="As" />
-      <item value="A" />
-      <item value="ua" />
-      <item value="unary" />
-      <item value="uu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="202" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="CHINESE" value="204" />
+        <entry key="ENGLISH" value="123" />
       </map>
     </option>
   </component>
