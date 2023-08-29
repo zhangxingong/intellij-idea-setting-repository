@@ -71,15 +71,16 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1692674203160" />
+    <option name="lastTrimTime" value="1693287440386" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="235" />
-    <option name="newTranslationDialogWidth" value="654" />
+    <option name="newTranslationDialogWidth" value="650" />
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="Semantic" />
       <item value="life" />
       <item value="panic" />
       <item value="折叠" />
@@ -129,11 +130,10 @@
       <item value="wildcards" />
       <item value="wil" />
       <item value="Assembl" />
-      <item value="Assembly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="206" />
+        <entry key="CHINESE" value="207" />
         <entry key="ENGLISH" value="125" />
       </map>
     </option>
