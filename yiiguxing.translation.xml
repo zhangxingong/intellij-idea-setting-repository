@@ -75,11 +75,24 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="235" />
-    <option name="newTranslationDialogWidth" value="650" />
+    <option name="newTranslationDialogHeight" value="223" />
+    <option name="newTranslationDialogWidth" value="634" />
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="catalyst" />
+      <item value="cata" />
+      <item value="c" />
+      <item value="pregmatic thinking" />
+      <item value="pregmatic t" />
+      <item value="pregmatic " />
+      <item value="pregmat" />
+      <item value="preg" />
+      <item value="prer" />
+      <item value="pragmatic" />
+      <item value="prag" />
+      <item value="wetware" />
+      <item value="wet" />
       <item value="Semantic" />
       <item value="life" />
       <item value="panic" />
@@ -117,24 +130,11 @@
       <item value="deprecated" />
       <item value="Syndication" />
       <item value="vampir" />
-      <item value="vampa=" />
-      <item value="vampa" />
-      <item value="vampair" />
-      <item value="vam" />
-      <item value="va" />
-      <item value="form" />
-      <item value="period" />
-      <item value="p" />
-      <item value="assumd" />
-      <item value="assu" />
-      <item value="wildcards" />
-      <item value="wil" />
-      <item value="Assembl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="207" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="CHINESE" value="211" />
+        <entry key="ENGLISH" value="128" />
       </map>
     </option>
   </component>
