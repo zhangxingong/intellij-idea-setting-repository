@@ -76,10 +76,14 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="233" />
-    <option name="newTranslationDialogWidth" value="602" />
+    <option name="newTranslationDialogWidth" value="686" />
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="抽象油墨" />
+      <item value="x'hou'x油墨" />
+      <item value="油墨" />
+      <item value="油墨画" />
       <item value="remained" />
       <item value="plagued" />
       <item value="spectacular" />
@@ -126,10 +130,6 @@
       <item value="lexical" />
       <item value="awesome" />
       <item value="a" />
-      <item value="Parentheses" />
-      <item value="中文" />
-      <item value="乱" />
-      <item value="乱码" />
     </histories>
     <option name="languageScores">
       <map>
