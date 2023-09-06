@@ -76,10 +76,11 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="233" />
-    <option name="newTranslationDialogWidth" value="682" />
+    <option name="newTranslationDialogWidth" value="678" />
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="热身" />
       <item value="literal" />
       <item value="自动翻页" />
       <item value="z翻页" />
@@ -129,7 +130,6 @@
       <item value="shan'yang" />
       <item value="shan" />
       <item value="san'yang" />
-      <item value="diary" />
     </histories>
     <option name="languageScores">
       <map>
