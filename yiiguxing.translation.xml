@@ -71,15 +71,25 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1693893352630" />
+    <option name="lastTrimTime" value="1695001595488" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="233" />
-    <option name="newTranslationDialogWidth" value="678" />
+    <option name="newTranslationDialogHeight" value="387" />
+    <option name="newTranslationDialogWidth" value="710" />
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="搜索" />
+      <item value="得到" />
+      <item value="ss" />
+      <item value="级别" />
+      <item value="ji'bie" />
+      <item value="几倍" />
       <item value="热身" />
       <item value="literal" />
       <item value="自动翻页" />
@@ -124,17 +134,11 @@
       <item value="折叠" />
       <item value="这地的" />
       <item value="zip" />
-      <item value="zap" />
-      <item value="blend" />
-      <item value="山羊" />
-      <item value="shan'yang" />
-      <item value="shan" />
-      <item value="san'yang" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="233" />
+        <entry key="ENGLISH" value="142" />
       </map>
     </option>
   </component>
