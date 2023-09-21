@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="dash-separated list" />
       <item value="Pseudo" />
       <item value="general sibling" />
       <item value="adjacent sibling " />
@@ -133,7 +134,6 @@
       <item value="pregmatic t" />
       <item value="pregmatic " />
       <item value="pregmat" />
-      <item value="preg" />
     </histories>
     <option name="languageScores">
       <map>
