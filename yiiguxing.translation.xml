@@ -84,6 +84,8 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="CSS Flexbox" />
+      <item value="Flexbox" />
       <item value="dash-separated list" />
       <item value="Pseudo" />
       <item value="general sibling" />
@@ -132,8 +134,6 @@
       <item value="c" />
       <item value="pregmatic thinking" />
       <item value="pregmatic t" />
-      <item value="pregmatic " />
-      <item value="pregmat" />
     </histories>
     <option name="languageScores">
       <map>
