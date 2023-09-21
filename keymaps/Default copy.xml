@@ -1,5 +1,23 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="DatabaseView.Tools.SubmitChanges" />
+  <action id="Git.Rename.Local.Branch">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift 9" />
+  </action>
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="shift 0" />
+  </action>
+  <action id="Session.Rename">
+    <keyboard-shortcut first-keystroke="shift 6" />
+  </action>
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
