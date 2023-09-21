@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="variations" />
       <item value="占用d'd" />
       <item value="占用" />
       <item value="占用d" />
@@ -133,11 +134,10 @@
       <item value="prag" />
       <item value="wetware" />
       <item value="wet" />
-      <item value="Semantic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="234" />
+        <entry key="CHINESE" value="235" />
         <entry key="ENGLISH" value="143" />
       </map>
     </option>
