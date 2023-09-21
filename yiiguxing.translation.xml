@@ -79,11 +79,15 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="387" />
-    <option name="newTranslationDialogWidth" value="702" />
+    <option name="newTranslationDialogHeight" value="360" />
+    <option name="newTranslationDialogWidth" value="698" />
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="general sibling" />
+      <item value="adjacent sibling " />
+      <item value="descendant" />
+      <item value="horizontally" />
       <item value="variations" />
       <item value="占用d'd" />
       <item value="占用" />
@@ -130,10 +134,6 @@
       <item value="pregmat" />
       <item value="preg" />
       <item value="prer" />
-      <item value="pragmatic" />
-      <item value="prag" />
-      <item value="wetware" />
-      <item value="wet" />
     </histories>
     <option name="languageScores">
       <map>
