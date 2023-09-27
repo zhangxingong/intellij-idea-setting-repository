@@ -71,7 +71,7 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1695001595488" />
+    <option name="lastTrimTime" value="1695805206934" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="分割线" />
       <item value="CSS Flexbox" />
       <item value="Flexbox" />
       <item value="dash-separated list" />
@@ -133,12 +134,11 @@
       <item value="cata" />
       <item value="c" />
       <item value="pregmatic thinking" />
-      <item value="pregmatic t" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="143" />
+        <entry key="ENGLISH" value="144" />
       </map>
     </option>
   </component>
