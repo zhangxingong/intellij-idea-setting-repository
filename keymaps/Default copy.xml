@@ -9,9 +9,6 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift 9" />
   </action>
-  <action id="RenameFile">
-    <keyboard-shortcut first-keystroke="shift 0" />
-  </action>
   <action id="Session.Rename">
     <keyboard-shortcut first-keystroke="shift 6" />
   </action>
