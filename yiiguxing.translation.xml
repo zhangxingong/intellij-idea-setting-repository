@@ -80,10 +80,12 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="342" />
-    <option name="newTranslationDialogWidth" value="714" />
+    <option name="newTranslationDialogWidth" value="710" />
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="taxonomy" />
+      <item value="Terms" />
       <item value="全屏" />
       <item value="quan'ping" />
       <item value="jargon" />
@@ -132,8 +134,6 @@
       <item value="rants" />
       <item value="crank up" />
       <item value="bits of" />
-      <item value="neuroscience," />
-      <item value="cognitive" />
     </histories>
     <option name="languageScores">
       <map>
