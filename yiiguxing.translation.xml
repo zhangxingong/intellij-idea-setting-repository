@@ -80,10 +80,11 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="342" />
-    <option name="newTranslationDialogWidth" value="694" />
+    <option name="newTranslationDialogWidth" value="690" />
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="lambda" />
       <item value="exponential" />
       <item value="factors" />
       <item value="Taxonomy" />
@@ -133,7 +134,6 @@
       <item value="翻shu" />
       <item value="翻s" />
       <item value="自动fan'ye" />
-      <item value="抽象油墨" />
     </histories>
     <option name="languageScores">
       <map>
