@@ -71,7 +71,7 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1697600542497" />
+    <option name="lastTrimTime" value="1698195954347" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -80,10 +80,12 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="342" />
-    <option name="newTranslationDialogWidth" value="698" />
+    <option name="newTranslationDialogWidth" value="694" />
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="typically" />
+      <item value="typically " />
       <item value="verbatim" />
       <item value="现代" />
       <item value="经典" />
@@ -132,8 +134,6 @@
       <item value="x'hou'x油墨" />
       <item value="油墨" />
       <item value="油墨画" />
-      <item value="remained" />
-      <item value="plagued" />
     </histories>
     <option name="languageScores">
       <map>
