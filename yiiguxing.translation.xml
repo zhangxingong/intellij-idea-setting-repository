@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="sakura" />
       <item value="intermediate" />
       <item value="lambda" />
       <item value="exponential" />
@@ -133,7 +134,6 @@
       <item value="翻" />
       <item value="翻书" />
       <item value="翻shu" />
-      <item value="翻s" />
     </histories>
     <option name="languageScores">
       <map>
