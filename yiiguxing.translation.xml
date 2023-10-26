@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="intermediate" />
       <item value="lambda" />
       <item value="exponential" />
       <item value="factors" />
@@ -133,7 +134,6 @@
       <item value="翻书" />
       <item value="翻shu" />
       <item value="翻s" />
-      <item value="自动fan'ye" />
     </histories>
     <option name="languageScores">
       <map>
