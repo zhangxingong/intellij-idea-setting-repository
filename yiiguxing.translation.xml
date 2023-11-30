@@ -84,6 +84,8 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="wrap" />
+      <item value="nowrap" />
       <item value="flexbox" />
       <item value="f" />
       <item value="Flexible" />
@@ -132,8 +134,6 @@
       <item value="得到" />
       <item value="ss" />
       <item value="级别" />
-      <item value="ji'bie" />
-      <item value="几倍" />
     </histories>
     <option name="languageScores">
       <map>
