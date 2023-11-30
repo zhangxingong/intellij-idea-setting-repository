@@ -84,6 +84,9 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="flexbox" />
+      <item value="f" />
+      <item value="Flexible" />
       <item value="align" />
       <item value="blockquote" />
       <item value="使用手册" />
@@ -131,9 +134,6 @@
       <item value="级别" />
       <item value="ji'bie" />
       <item value="几倍" />
-      <item value="热身" />
-      <item value="literal" />
-      <item value="自动翻页" />
     </histories>
     <option name="languageScores">
       <map>
