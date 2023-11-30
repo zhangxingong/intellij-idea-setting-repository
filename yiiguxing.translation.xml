@@ -84,6 +84,10 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="pseudo" />
+      <item value="sibling" />
+      <item value="adjacent" />
+      <item value="descendant" />
       <item value="wrap" />
       <item value="nowrap" />
       <item value="flexbox" />
@@ -122,7 +126,6 @@
       <item value="Pseudo" />
       <item value="general sibling" />
       <item value="adjacent sibling " />
-      <item value="descendant" />
       <item value="horizontally" />
       <item value="variations" />
       <item value="占用d'd" />
@@ -131,9 +134,6 @@
       <item value="就看了大家" />
       <item value="s" />
       <item value="搜索" />
-      <item value="得到" />
-      <item value="ss" />
-      <item value="级别" />
     </histories>
     <option name="languageScores">
       <map>
