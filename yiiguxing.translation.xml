@@ -80,10 +80,11 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="410" />
-    <option name="newTranslationDialogWidth" value="718" />
+    <option name="newTranslationDialogWidth" value="714" />
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="技术支持" />
       <item value="图床&#10;" />
       <item value="saturation" />
       <item value="pseudo" />
@@ -133,7 +134,6 @@
       <item value="占用d'd" />
       <item value="占用" />
       <item value="占用d" />
-      <item value="就看了大家" />
     </histories>
     <option name="languageScores">
       <map>
