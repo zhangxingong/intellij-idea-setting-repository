@@ -71,7 +71,7 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1701222525107" />
+    <option name="lastTrimTime" value="1701658703612" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="图床&#10;" />
       <item value="saturation" />
       <item value="pseudo" />
       <item value="sibling" />
@@ -133,12 +134,11 @@
       <item value="占用" />
       <item value="占用d" />
       <item value="就看了大家" />
-      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="ENGLISH" value="148" />
       </map>
     </option>
   </component>
