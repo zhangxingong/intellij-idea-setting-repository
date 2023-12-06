@@ -80,10 +80,13 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="410" />
-    <option name="newTranslationDialogWidth" value="714" />
+    <option name="newTranslationDialogWidth" value="710" />
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="语法" />
+      <item value="syntax" />
+      <item value="sy" />
       <item value="技术支持" />
       <item value="图床&#10;" />
       <item value="saturation" />
@@ -131,14 +134,11 @@
       <item value="adjacent sibling " />
       <item value="horizontally" />
       <item value="variations" />
-      <item value="占用d'd" />
-      <item value="占用" />
-      <item value="占用d" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="ENGLISH" value="149" />
       </map>
     </option>
   </component>
