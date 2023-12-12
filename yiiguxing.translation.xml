@@ -71,7 +71,7 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1701658703612" />
+    <option name="lastTrimTime" value="1702346518809" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -80,10 +80,12 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="410" />
-    <option name="newTranslationDialogWidth" value="710" />
+    <option name="newTranslationDialogWidth" value="706" />
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="动词" />
+      <item value="dong'ci" />
       <item value="语法" />
       <item value="syntax" />
       <item value="sy" />
@@ -132,13 +134,11 @@
       <item value="Pseudo" />
       <item value="general sibling" />
       <item value="adjacent sibling " />
-      <item value="horizontally" />
-      <item value="variations" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="236" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="ENGLISH" value="150" />
       </map>
     </option>
   </component>
