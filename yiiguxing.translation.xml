@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="semicolon" />
       <item value="双因子" />
       <item value="clauses" />
       <item value="语法" />
@@ -133,7 +134,6 @@
       <item value="broker&#10;&#10;&#10;" />
       <item value="分割线" />
       <item value="CSS Flexbox" />
-      <item value="Flexbox" />
     </histories>
     <option name="languageScores">
       <map>
