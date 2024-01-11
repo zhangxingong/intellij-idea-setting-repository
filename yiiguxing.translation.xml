@@ -71,7 +71,7 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1703570333073" />
+    <option name="lastTrimTime" value="1704944926052" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -80,10 +80,12 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="410" />
-    <option name="newTranslationDialogWidth" value="698" />
+    <option name="newTranslationDialogWidth" value="694" />
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="喂食" />
+      <item value="wei'shi" />
       <item value="semicolon" />
       <item value="双因子" />
       <item value="clauses" />
@@ -132,13 +134,11 @@
       <item value="jargon" />
       <item value="broker" />
       <item value="broker&#10;&#10;&#10;" />
-      <item value="分割线" />
-      <item value="CSS Flexbox" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="237" />
-        <entry key="ENGLISH" value="151" />
+        <entry key="ENGLISH" value="152" />
       </map>
     </option>
   </component>
