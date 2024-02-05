@@ -1,8 +1,6 @@
 <application>
   <component name="OverrideFileTypeManager">
+    <file url="file://D:/xgzhang/java/workspace/svn/Elafs/branches/asp/.gitignore" value=".gitignore" />
     <file url="file://D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/m/ajax/wxpaydata.jsp" />
-    <file url="file://D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/WEB-INF/jsp/portal/courseware/EasyCourseViewtest.jsp" />
-    <file url="file://D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/static/ec-lib.js" />
-    <file url="file://D:/xgzhang/java/workspace/svn/Elafs/branches/asp/web/static/squirrelly.dev.js" />
   </component>
 </application>
