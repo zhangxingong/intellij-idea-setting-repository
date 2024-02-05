@@ -4,13 +4,14 @@
     <extensionMap>
       <mapping ext="rar" type="ARCHIVE" />
       <mapping pattern="*.git*" type="GitIgnore file" />
-      <mapping pattern=".gitignore" type="GitIgnore file" />
+      <mapping pattern="?gitignore" type="GitIgnore file" />
       <mapping ext="git" type="GitIgnore file" />
       <mapping ext="setting" type="PLAIN_TEXT" />
       <mapping pattern="spring.handlers" type="Properties" />
       <mapping pattern="spring.schemas" type="Properties" />
       <mapping ext="pom" type="XML" />
       <removed_mapping ext="ng" approved="true" type="HTML" />
+      <removed_mapping pattern=".gitignore" approved="true" type="GitIgnore file" />
     </extensionMap>
   </component>
 </application>
