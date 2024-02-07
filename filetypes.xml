@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="$*;*.bat;*.pyc;*.pyo;*.rbc;*.yarb;*.zip;*~;.DS_Store;.VS*;.classpath;.git;.hg;.history;.idea;.iml;.my*;.p*;.svn;ASPA*;CVS;G*;HDMS*;__pycache__;_svn;mymetadata;out.txt;t.jsp*;temp.txt;vssver.scc;vssver2.scc" />
+    <ignoreFiles list="${catalina.base};*.bat;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*.zip;.DS_Store;.VS*;.classpath;.git;.hg;.history;.idea;.my*;.p*;.svn;ASPAccesstimesreport2.jsp;GPATH;GRTAGS;GTAGS;__pycache__;_svn;mymetadata;out.txt;t.jsp*;temp.txt;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping ext="rar" type="ARCHIVE" />
       <mapping pattern="*.git*" type="GitIgnore file" />
