@@ -4,5 +4,6 @@
     <option name="englishInputSourceName" value="微软拼音" />
     <option name="stopAutoSwitchTip" value="true" />
     <option name="languageChangeWhenExit" value="中文" />
+    <option name="activeChangeStrategy" value="NEVER_STOP" />
   </component>
 </application>
