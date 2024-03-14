@@ -71,7 +71,7 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1708502241596" />
+    <option name="lastTrimTime" value="1710395196575" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="opposite_id" />
       <item value="progressively" />
       <item value="喂食" />
       <item value="wei'shi" />
@@ -133,7 +134,6 @@
       <item value="全屏" />
       <item value="quan'ping" />
       <item value="jargon" />
-      <item value="broker" />
     </histories>
     <option name="languageScores">
       <map>
