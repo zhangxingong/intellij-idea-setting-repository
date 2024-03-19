@@ -84,6 +84,9 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="禁用" />
+      <item value="jin'yong" />
+      <item value="ji" />
       <item value="opposite_id" />
       <item value="progressively" />
       <item value="喂食" />
@@ -131,14 +134,11 @@
       <item value="经典" />
       <item value="taxonomy" />
       <item value="Terms" />
-      <item value="全屏" />
-      <item value="quan'ping" />
-      <item value="jargon" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="237" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="ENGLISH" value="153" />
       </map>
     </option>
   </component>
