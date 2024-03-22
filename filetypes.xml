@@ -9,6 +9,7 @@
       <mapping ext="setting" type="PLAIN_TEXT" />
       <mapping pattern="spring.handlers" type="Properties" />
       <mapping pattern="spring.schemas" type="Properties" />
+      <mapping ext="woff2" type="XHTML" />
       <mapping ext="pom" type="XML" />
       <removed_mapping ext="ng" approved="true" type="HTML" />
       <removed_mapping pattern="?gitignore" approved="true" type="GitIgnore file" />
