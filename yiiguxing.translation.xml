@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="魔鬼" />
       <item value="irrational" />
       <item value="blindly" />
       <item value="禁用" />
@@ -133,12 +134,11 @@
       <item value="typically " />
       <item value="verbatim" />
       <item value="现代" />
-      <item value="经典" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="237" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="ENGLISH" value="154" />
       </map>
     </option>
   </component>
