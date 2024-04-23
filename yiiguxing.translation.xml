@@ -71,7 +71,7 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1712734147731" />
+    <option name="lastTrimTime" value="1713859571947" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -84,6 +84,14 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="rusty" />
+      <item value="horrible" />
+      <item value="tradeoffs" />
+      <item value="trade" />
+      <item value="trade off" />
+      <item value="r" />
+      <item value="mushroom-features" />
+      <item value="mushroom" />
       <item value="魔鬼" />
       <item value="irrational" />
       <item value="blindly" />
@@ -126,14 +134,6 @@
       <item value="sakura" />
       <item value="intermediate" />
       <item value="lambda" />
-      <item value="exponential" />
-      <item value="factors" />
-      <item value="Taxonomy" />
-      <item value="Kind" />
-      <item value="typically" />
-      <item value="typically " />
-      <item value="verbatim" />
-      <item value="现代" />
     </histories>
     <option name="languageScores">
       <map>
