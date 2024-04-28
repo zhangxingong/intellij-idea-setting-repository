@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="indicates" />
       <item value="definitely" />
       <item value="rusty" />
       <item value="horrible" />
@@ -133,7 +134,6 @@
       <item value="Kruskal" />
       <item value="Prim" />
       <item value="sakura" />
-      <item value="intermediate" />
     </histories>
     <option name="languageScores">
       <map>
