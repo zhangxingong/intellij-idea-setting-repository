@@ -71,7 +71,7 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1713859571947" />
+    <option name="lastTrimTime" value="1714376646185" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="substitute" />
       <item value="indicates" />
       <item value="definitely" />
       <item value="rusty" />
@@ -133,7 +134,6 @@
       <item value="async" />
       <item value="Kruskal" />
       <item value="Prim" />
-      <item value="sakura" />
     </histories>
     <option name="languageScores">
       <map>
