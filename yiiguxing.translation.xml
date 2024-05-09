@@ -71,7 +71,7 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1714376646185" />
+    <option name="lastTrimTime" value="1715160202122" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -80,10 +80,11 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="410" />
-    <option name="newTranslationDialogWidth" value="694" />
+    <option name="newTranslationDialogWidth" value="690" />
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="Awesome" />
       <item value="hood" />
       <item value="substitute" />
       <item value="indicates" />
@@ -133,7 +134,6 @@
       <item value="使用手册" />
       <item value="使用" />
       <item value="async" />
-      <item value="Kruskal" />
     </histories>
     <option name="languageScores">
       <map>
