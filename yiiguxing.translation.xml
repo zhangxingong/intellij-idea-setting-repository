@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="Silver" />
       <item value="Awesome" />
       <item value="hood" />
       <item value="substitute" />
@@ -133,7 +134,6 @@
       <item value="blockquote" />
       <item value="使用手册" />
       <item value="使用" />
-      <item value="async" />
     </histories>
     <option name="languageScores">
       <map>
