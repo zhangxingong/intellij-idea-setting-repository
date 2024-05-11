@@ -80,10 +80,14 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="410" />
-    <option name="newTranslationDialogWidth" value="686" />
+    <option name="newTranslationDialogWidth" value="678" />
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="奇怪" />
+      <item value="qi" />
+      <item value="da'guai" />
+      <item value="da" />
       <item value="记住" />
       <item value="Silver" />
       <item value="Awesome" />
@@ -130,15 +134,11 @@
       <item value="nowrap" />
       <item value="flexbox" />
       <item value="f" />
-      <item value="Flexible" />
-      <item value="align" />
-      <item value="blockquote" />
-      <item value="使用手册" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="237" />
-        <entry key="ENGLISH" value="155" />
+        <entry key="ENGLISH" value="156" />
       </map>
     </option>
   </component>
