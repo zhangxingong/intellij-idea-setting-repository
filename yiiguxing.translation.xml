@@ -84,6 +84,8 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="Bound to" />
+      <item value="Bound" />
       <item value="奇怪" />
       <item value="qi" />
       <item value="da'guai" />
@@ -132,12 +134,10 @@
       <item value="descendant" />
       <item value="wrap" />
       <item value="nowrap" />
-      <item value="flexbox" />
-      <item value="f" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="237" />
+        <entry key="CHINESE" value="238" />
         <entry key="ENGLISH" value="156" />
       </map>
     </option>
