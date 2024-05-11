@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="narrowed" />
       <item value="Bound to" />
       <item value="Bound" />
       <item value="奇怪" />
@@ -133,7 +134,6 @@
       <item value="adjacent" />
       <item value="descendant" />
       <item value="wrap" />
-      <item value="nowrap" />
     </histories>
     <option name="languageScores">
       <map>
