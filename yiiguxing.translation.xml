@@ -71,7 +71,7 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1715160202122" />
+    <option name="lastTrimTime" value="1715764917819" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="Transpose" />
       <item value="narrowed" />
       <item value="Bound to" />
       <item value="Bound" />
@@ -133,7 +134,6 @@
       <item value="sibling" />
       <item value="adjacent" />
       <item value="descendant" />
-      <item value="wrap" />
     </histories>
     <option name="languageScores">
       <map>
