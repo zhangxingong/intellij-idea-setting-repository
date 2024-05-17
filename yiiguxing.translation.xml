@@ -84,6 +84,8 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="SUBTREE" />
+      <item value="CHILDREN" />
       <item value="Transpose" />
       <item value="narrowed" />
       <item value="Bound to" />
@@ -132,8 +134,6 @@
       <item value="saturation" />
       <item value="pseudo" />
       <item value="sibling" />
-      <item value="adjacent" />
-      <item value="descendant" />
     </histories>
     <option name="languageScores">
       <map>
