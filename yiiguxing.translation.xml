@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="Gap" />
       <item value="ambiguously" />
       <item value="wildmenu" />
       <item value="wildmen" />
@@ -133,7 +134,6 @@
       <item value="dong'ci" />
       <item value="syntax" />
       <item value="sy" />
-      <item value="技术支持" />
     </histories>
     <option name="languageScores">
       <map>
