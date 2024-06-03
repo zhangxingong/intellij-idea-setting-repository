@@ -71,7 +71,7 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1716252665341" />
+    <option name="lastTrimTime" value="1717400944458" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -84,6 +84,8 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="all right" />
+      <item value="a" />
       <item value="Gap" />
       <item value="ambiguously" />
       <item value="wildmenu" />
@@ -132,8 +134,6 @@
       <item value="句子&#10;" />
       <item value="动词" />
       <item value="dong'ci" />
-      <item value="syntax" />
-      <item value="sy" />
     </histories>
     <option name="languageScores">
       <map>
