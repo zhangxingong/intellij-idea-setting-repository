@@ -80,10 +80,11 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="410" />
-    <option name="newTranslationDialogWidth" value="678" />
+    <option name="newTranslationDialogWidth" value="674" />
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="掌握" />
       <item value="all right" />
       <item value="a" />
       <item value="Gap" />
@@ -133,12 +134,11 @@
       <item value="句子" />
       <item value="句子&#10;" />
       <item value="动词" />
-      <item value="dong'ci" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="238" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="ENGLISH" value="157" />
       </map>
     </option>
   </component>
