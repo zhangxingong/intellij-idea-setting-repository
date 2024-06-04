@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="提取" />
       <item value="掌握" />
       <item value="all right" />
       <item value="a" />
@@ -133,7 +134,6 @@
       <item value="语法" />
       <item value="句子" />
       <item value="句子&#10;" />
-      <item value="动词" />
     </histories>
     <option name="languageScores">
       <map>
