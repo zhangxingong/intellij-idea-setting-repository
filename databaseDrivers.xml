@@ -16,7 +16,9 @@
     <driver id="oracle" name="Oracle">
       <artifact id="Oracle" name="Oracle" use="true" version="12.1.0.2" />
     </driver>
-    <driver id="sqlite.xerial" name="Sqlite (Xerial)" />
+    <driver id="sqlite.xerial" name="Sqlite (Xerial)">
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.45.1" />
+    </driver>
     <driver id="sybase.ase" name="Sybase (Native)" />
   </component>
 </application>
