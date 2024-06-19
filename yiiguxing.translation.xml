@@ -74,15 +74,12 @@
     <option name="lastTrimTime" value="1718695799155" />
   </component>
   <component name="Translation.Settings">
+    <option name="phoneticFontFamily" value="Fira Code" />
     <option name="primaryLanguage" value="CHINESE" />
-    <option name="targetLanguageSelection" value="LAST" />
+    <option name="translator" value="GOOGLE" />
+    <option name="ttsEngine" value="GOOGLE" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="410" />
-    <option name="newTranslationDialogWidth" value="666" />
-    <option name="newTranslationDialogX" value="647" />
-    <option name="newTranslationDialogY" value="0" />
     <histories>
       <item value="兴趣" />
       <item value="millet" />
