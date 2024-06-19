@@ -74,13 +74,18 @@
     <option name="lastTrimTime" value="1718695799155" />
   </component>
   <component name="Translation.Settings">
-    <option name="phoneticFontFamily" value="Fira Code" />
+    <option name="phoneticFontFamily" value="Cambria" />
     <option name="primaryLanguage" value="CHINESE" />
     <option name="translator" value="GOOGLE" />
-    <option name="ttsEngine" value="GOOGLE" />
   </component>
   <component name="Translation.States">
+    <option name="translationDialogHeight" value="390" />
+    <option name="translationDialogLocationX" value="466" />
+    <option name="translationDialogLocationY" value="281" />
+    <option name="translationDialogWidth" value="780" />
     <histories>
+      <item value="interest" />
+      <item value="int" />
       <item value="兴趣" />
       <item value="millet" />
       <item value="grain" />
@@ -129,12 +134,10 @@
       <item value="喂食" />
       <item value="wei'shi" />
       <item value="semicolon" />
-      <item value="双因子" />
-      <item value="clauses" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="239" />
+        <entry key="CHINESE" value="240" />
         <entry key="ENGLISH" value="157" />
       </map>
     </option>
