@@ -84,6 +84,7 @@
     <option name="newTranslationDialogX" value="647" />
     <option name="newTranslationDialogY" value="0" />
     <histories>
+      <item value="兴趣" />
       <item value="millet" />
       <item value="grain" />
       <item value="提取" />
@@ -133,11 +134,10 @@
       <item value="semicolon" />
       <item value="双因子" />
       <item value="clauses" />
-      <item value="语法" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="238" />
+        <entry key="CHINESE" value="239" />
         <entry key="ENGLISH" value="157" />
       </map>
     </option>
