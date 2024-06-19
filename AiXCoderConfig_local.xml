@@ -9,5 +9,6 @@
     <option name="isShowShadeHint" value="false" />
     <option name="autoRecommendSimilarCode" value="true" />
     <option name="predictedLevelSetting" value="智能模式（根据上下文信息智能决定预测长度）" />
+    <option name="predictedLevelSettingCache" value="智能模式（根据上下文信息智能决定预测长度）" />
   </component>
 </application>
