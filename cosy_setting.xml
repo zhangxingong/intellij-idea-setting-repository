@@ -37,10 +37,12 @@
           <value>
             <list>
               <option value="/explain code" />
+              <option value="/generate comment" />
             </list>
           </value>
         </entry>
       </map>
     </option>
+    <option name="showInlineTriggerTips" value="false" />
   </component>
 </application>

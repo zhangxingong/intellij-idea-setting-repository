@@ -5,6 +5,7 @@
     <option name="longNum" value="Auto" />
     <option name="selectItem" value="Auto" />
     <option name="uninstallFlag" value="false" />
+    <option name="hintEnable" value="false" />
     <option name="isShowShadeHint" value="false" />
     <option name="autoRecommendSimilarCode" value="true" />
     <option name="enableLocalService" value="true" />
