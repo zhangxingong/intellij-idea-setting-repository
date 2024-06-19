@@ -1,6 +1,5 @@
 <application>
   <component name="ConfigState">
-    <option name="theme" value="Auto" />
     <option name="tips_position" value="0" />
     <option name="longSort" value="false" />
     <option name="longNum" value="Auto" />
@@ -8,7 +7,6 @@
     <option name="uninstallFlag" value="false" />
     <option name="isShowShadeHint" value="false" />
     <option name="autoRecommendSimilarCode" value="true" />
-    <option name="predictedLevelSetting" value="智能模式（根据上下文信息智能决定预测长度）" />
-    <option name="predictedLevelSettingCache" value="智能模式（根据上下文信息智能决定预测长度）" />
+    <option name="enableLocalService" value="true" />
   </component>
 </application>
