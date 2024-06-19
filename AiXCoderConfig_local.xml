@@ -5,6 +5,7 @@
     <option name="longNum" value="自动" />
     <option name="selectItem" value="自动" />
     <option name="uninstallFlag" value="false" />
+    <option name="isProEnable" value="false" />
     <option name="isShowShadeHint" value="false" />
   </component>
 </application>
