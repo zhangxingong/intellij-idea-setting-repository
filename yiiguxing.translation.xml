@@ -76,13 +76,13 @@
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
     <option name="targetLanguageSelection" value="LAST" />
+    <option name="translator" value="GOOGLE" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="410" />
-    <option name="newTranslationDialogWidth" value="674" />
-    <option name="newTranslationDialogX" value="647" />
-    <option name="newTranslationDialogY" value="0" />
+    <option name="translationDialogHeight" value="390" />
+    <option name="translationDialogLocationX" value="466" />
+    <option name="translationDialogLocationY" value="281" />
+    <option name="translationDialogWidth" value="780" />
     <histories>
       <item value="提取" />
       <item value="掌握" />
