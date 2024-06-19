@@ -38,6 +38,7 @@
             <list>
               <option value="/explain code" />
               <option value="/generate comment" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>
