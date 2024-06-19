@@ -2,9 +2,11 @@
   <component name="ConfigState">
     <option name="tips_position" value="0" />
     <option name="longSort" value="false" />
-    <option name="longNum" value="自动" />
-    <option name="selectItem" value="自动" />
+    <option name="longNum" value="Auto" />
+    <option name="selectItem" value="Auto" />
     <option name="uninstallFlag" value="false" />
-    <option name="isProEnable" value="false" />
+    <option name="isShowShadeHint" value="false" />
+    <option name="autoRecommendSimilarCode" value="true" />
+    <option name="enableLocalService" value="true" />
   </component>
 </application>
