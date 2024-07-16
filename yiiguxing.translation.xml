@@ -71,7 +71,7 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1719799615629" />
+    <option name="lastTrimTime" value="1721095834330" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -82,9 +82,10 @@
     <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="390" />
     <option name="translationDialogLocationX" value="376" />
-    <option name="translationDialogLocationY" value="211" />
+    <option name="translationDialogLocationY" value="0" />
     <option name="translationDialogWidth" value="780" />
     <histories>
+      <item value="silk" />
       <item value="Flash Copilot" />
       <item value="Copilot" />
       <item value="Co" />
@@ -134,7 +135,6 @@
       <item value="禁用" />
       <item value="jin'yong" />
       <item value="ji" />
-      <item value="opposite_id" />
     </histories>
     <option name="languageScores">
       <map>
