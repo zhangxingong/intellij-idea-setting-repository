@@ -85,6 +85,7 @@
     <option name="translationDialogLocationY" value="0" />
     <option name="translationDialogWidth" value="780" />
     <histories>
+      <item value="elder" />
       <item value="silk" />
       <item value="Flash Copilot" />
       <item value="Copilot" />
@@ -134,7 +135,6 @@
       <item value="blindly" />
       <item value="禁用" />
       <item value="jin'yong" />
-      <item value="ji" />
     </histories>
     <option name="languageScores">
       <map>
