@@ -85,6 +85,7 @@
     <option name="translationDialogLocationY" value="211" />
     <option name="translationDialogWidth" value="780" />
     <histories>
+      <item value="BINARY" />
       <item value="头像&#10;" />
       <item value="elder" />
       <item value="silk" />
@@ -134,7 +135,6 @@
       <item value="魔鬼" />
       <item value="irrational" />
       <item value="blindly" />
-      <item value="禁用" />
     </histories>
     <option name="languageScores">
       <map>
