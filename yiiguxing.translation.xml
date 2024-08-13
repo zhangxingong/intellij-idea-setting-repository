@@ -81,6 +81,8 @@
   <component name="Translation.States">
     <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="394" />
+    <option name="translationDialogLocationX" value="376" />
+    <option name="translationDialogLocationY" value="0" />
     <option name="translationDialogWidth" value="780" />
     <histories>
       <item value="电影" />
