@@ -82,9 +82,10 @@
     <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="394" />
     <option name="translationDialogLocationX" value="376" />
-    <option name="translationDialogLocationY" value="0" />
+    <option name="translationDialogLocationY" value="209" />
     <option name="translationDialogWidth" value="780" />
     <histories>
+      <item value="电视剧" />
       <item value="电影" />
       <item value="分配" />
       <item value="fen" />
@@ -134,12 +135,11 @@
       <item value="finalized" />
       <item value="Delivery" />
       <item value="提取" />
-      <item value="掌握" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="242" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="ENGLISH" value="167" />
       </map>
     </option>
   </component>
