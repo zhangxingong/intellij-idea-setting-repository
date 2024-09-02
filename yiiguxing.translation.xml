@@ -71,7 +71,7 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1724728361891" />
+    <option name="lastTrimTime" value="1725241608377" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -85,6 +85,8 @@
     <option name="translationDialogLocationY" value="0" />
     <option name="translationDialogWidth" value="780" />
     <histories>
+      <item value="summary" />
+      <item value="总结" />
       <item value="anchor" />
       <item value="due" />
       <item value="u" />
@@ -133,13 +135,11 @@
       <item value="消化" />
       <item value="xiao'hua" />
       <item value="dis" />
-      <item value="conclusion" />
-      <item value="归档" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="243" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="CHINESE" value="244" />
+        <entry key="ENGLISH" value="171" />
       </map>
     </option>
   </component>
