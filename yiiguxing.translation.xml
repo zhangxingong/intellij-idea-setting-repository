@@ -82,9 +82,17 @@
     <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="395" />
     <option name="translationDialogLocationX" value="376" />
-    <option name="translationDialogLocationY" value="0" />
+    <option name="translationDialogLocationY" value="92" />
     <option name="translationDialogWidth" value="780" />
     <histories>
+      <item value="absent" />
+      <item value="不在" />
+      <item value="bu'zai" />
+      <item value="已请假" />
+      <item value="已qing" />
+      <item value="已qiang" />
+      <item value="已qiang'jia" />
+      <item value="yi'qing'jia" />
       <item value="允许请假" />
       <item value="允许qing'jia" />
       <item value="允许强加" />
@@ -103,10 +111,8 @@
       <item value="qiang'jia" />
       <item value="qian" />
       <item value="不" />
-      <item value="不在" />
       <item value="不在岗位" />
       <item value="不在gang" />
-      <item value="bu'zai" />
       <item value="请假状态" />
       <item value="强加" />
       <item value="q" />
@@ -129,17 +135,11 @@
       <item value="collection" />
       <item value="collectionDate" />
       <item value="series" />
-      <item value="电视剧" />
-      <item value="电影" />
-      <item value="分配" />
-      <item value="fen" />
-      <item value="精力" />
-      <item value="提示" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="245" />
-        <entry key="ENGLISH" value="174" />
+        <entry key="CHINESE" value="246" />
+        <entry key="ENGLISH" value="175" />
       </map>
     </option>
   </component>
