@@ -71,7 +71,7 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1726193106208" />
+    <option name="lastTrimTime" value="1726637795161" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -80,11 +80,13 @@
   </component>
   <component name="Translation.States">
     <option name="translationDialogCollapseDictViewer" value="false" />
-    <option name="translationDialogHeight" value="395" />
+    <option name="translationDialogHeight" value="394" />
     <option name="translationDialogLocationX" value="376" />
-    <option name="translationDialogLocationY" value="92" />
+    <option name="translationDialogLocationY" value="0" />
     <option name="translationDialogWidth" value="780" />
     <histories>
+      <item value="apply" />
+      <item value="申请" />
       <item value="absent" />
       <item value="不在" />
       <item value="bu'zai" />
@@ -133,13 +135,11 @@
       <item value="一瞥" />
       <item value="glimp" />
       <item value="collection" />
-      <item value="collectionDate" />
-      <item value="series" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="246" />
-        <entry key="ENGLISH" value="175" />
+        <entry key="CHINESE" value="247" />
+        <entry key="ENGLISH" value="177" />
       </map>
     </option>
   </component>
