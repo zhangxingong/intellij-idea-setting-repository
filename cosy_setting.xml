@@ -48,6 +48,7 @@
               <option value="@workspace release" />
               <option value="centos 创建服务脚本并开机启动" />
               <option value="centos  chkconfig创建服务脚本并开机启动" />
+              <option value="java map 获取keys" />
             </list>
           </value>
         </entry>
