@@ -1,7 +1,5 @@
 <application>
   <component name="BitoPluginSettings">
-    <option name="enableCodeCompletion" value="true" />
-    <option name="enableCommentToCode" value="true" />
     <option name="fontSize" value="18" />
   </component>
 </application>
