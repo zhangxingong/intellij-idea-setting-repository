@@ -85,6 +85,7 @@
     <option name="translationDialogLocationY" value="210" />
     <option name="translationDialogWidth" value="780" />
     <histories>
+      <item value="有未匹配的用户名数据，请检查表格内用户名！" />
       <item value="未填写用户名信息" />
       <item value="找不到该线下培训" />
       <item value="培訓信息不匹配" />
@@ -134,12 +135,11 @@
       <item value="Initiatives: A core set of activities and actions that can drive the outcomes defined in the key results." />
       <item value="Ambitious but achievable outcomes the team can measure against the objective." />
       <item value="achievable" />
-      <item value="Ambitious" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="247" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="ENGLISH" value="180" />
       </map>
     </option>
   </component>
