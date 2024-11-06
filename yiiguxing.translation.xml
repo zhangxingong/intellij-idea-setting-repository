@@ -85,6 +85,9 @@
     <option name="translationDialogLocationY" value="210" />
     <option name="translationDialogWidth" value="780" />
     <histories>
+      <item value="未填写用户名信息" />
+      <item value="找不到该线下培训" />
+      <item value="培訓信息不匹配" />
       <item value="compulsory" />
       <item value="rune" />
       <item value="interior" />
@@ -132,14 +135,11 @@
       <item value="Ambitious but achievable outcomes the team can measure against the objective." />
       <item value="achievable" />
       <item value="Ambitious" />
-      <item value="Key results" />
-      <item value="Objectives" />
-      <item value="EXPIRE" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="247" />
-        <entry key="ENGLISH" value="178" />
+        <entry key="ENGLISH" value="179" />
       </map>
     </option>
   </component>
