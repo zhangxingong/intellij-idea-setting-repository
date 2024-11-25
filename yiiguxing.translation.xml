@@ -71,7 +71,7 @@
     <option name="lastTrimTime" value="1675049400711" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1730776729733" />
+    <option name="lastTrimTime" value="1732516539953" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -85,6 +85,7 @@
     <option name="translationDialogLocationY" value="210" />
     <option name="translationDialogWidth" value="780" />
     <histories>
+      <item value="问答题" />
       <item value="知识点内容过长，最大长度为1300个汉字！" />
       <item value="有未匹配的用户名数据，请检查表格内用户名！" />
       <item value="未填写用户名信息" />
@@ -134,12 +135,11 @@
       <item value="due" />
       <item value="u" />
       <item value="Initiatives: A core set of activities and actions that can drive the outcomes defined in the key results." />
-      <item value="Ambitious but achievable outcomes the team can measure against the objective." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="247" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="ENGLISH" value="182" />
       </map>
     </option>
   </component>
