@@ -82,9 +82,11 @@
     <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="390" />
     <option name="translationDialogLocationX" value="376" />
-    <option name="translationDialogLocationY" value="29" />
+    <option name="translationDialogLocationY" value="211" />
     <option name="translationDialogWidth" value="780" />
     <histories>
+      <item value="outage" />
+      <item value="We're experiencing an outage right now. We have identified the issue and are working to roll out a fix." />
       <item value="temporary" />
       <item value="temporar" />
       <item value="是否启用部门管理员的部门组织结构和人员账号管理功能" />
@@ -133,8 +135,6 @@
       <item value="不在岗位" />
       <item value="不在gang" />
       <item value="请假状态" />
-      <item value="强加" />
-      <item value="q" />
     </histories>
     <option name="languageScores">
       <map>
