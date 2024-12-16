@@ -81,10 +81,25 @@
   <component name="Translation.States">
     <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="390" />
-    <option name="translationDialogLocationX" value="376" />
-    <option name="translationDialogLocationY" value="211" />
     <option name="translationDialogWidth" value="780" />
     <histories>
+      <item value="智能" />
+      <item value="zhi'neng" />
+      <item value="只能" />
+      <item value="聪明" />
+      <item value="co'm'n" />
+      <item value="崇明" />
+      <item value="智" />
+      <item value="智者" />
+      <item value="zhi'zhe" />
+      <item value="zhi" />
+      <item value="geniu" />
+      <item value="智慧" />
+      <item value="zhi'hui" />
+      <item value="zhi'h" />
+      <item value="指挥" />
+      <item value="大能" />
+      <item value="大能人" />
       <item value="outage" />
       <item value="We're experiencing an outage right now. We have identified the issue and are working to roll out a fix." />
       <item value="temporary" />
@@ -118,28 +133,11 @@
       <item value="允许qing'jia" />
       <item value="允许强加" />
       <item value="允许" />
-      <item value="yun'x" />
-      <item value="运行" />
-      <item value="是否允许" />
-      <item value="是否yun'x" />
-      <item value="是否" />
-      <item value="是否du" />
-      <item value="是否请假" />
-      <item value="shou'f" />
-      <item value="qi" />
-      <item value="请假" />
-      <item value="qing'jia" />
-      <item value="qiang'jia" />
-      <item value="qian" />
-      <item value="不" />
-      <item value="不在岗位" />
-      <item value="不在gang" />
-      <item value="请假状态" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="248" />
-        <entry key="ENGLISH" value="183" />
+        <entry key="ENGLISH" value="184" />
       </map>
     </option>
   </component>
