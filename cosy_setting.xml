@@ -1,0 +1,67 @@
+<application>
+  <component name="CosySettings">
+    <option name="manualOpenLocalModel" value="true" />
+    <option name="parameter">
+      <ChangeUserSettingParams>
+        <option name="allowReportUsage" value="true" />
+        <option name="cloud">
+          <CloudModelParam>
+            <option name="autoTrigger">
+              <CloudModelAutoTrigger>
+                <option name="enable" value="true" />
+                <option name="generateLength" value="level_1" />
+                <option name="modelLevel" value="large" />
+              </CloudModelAutoTrigger>
+            </option>
+            <option name="enable" value="true" />
+            <option name="manualTrigger">
+              <CloudModelManualTrigger>
+                <option name="generateLength" value="level_2" />
+                <option name="modelLevel" value="large" />
+              </CloudModelManualTrigger>
+            </option>
+          </CloudModelParam>
+        </option>
+        <option name="local">
+          <LocalModelParam>
+            <option name="enable" value="true" />
+            <option name="inferenceMode" value="auto" />
+            <option name="maxCandidateNum" value="3" />
+          </LocalModelParam>
+        </option>
+      </ChangeUserSettingParams>
+    </option>
+    <option name="recentQueries">
+      <map>
+        <entry key="HDMS3_ELAFS|1117380323206201">
+          <value>
+            <list>
+              <option value="/explain code" />
+              <option value="/generate comment" />
+              <option value="/explain code" />
+              <option value="centos chown -R" />
+              <option value="centos chmod 755" />
+              <option value="centos ls -s" />
+              <option value="centos ln -s" />
+              <option value="centos iptables -F" />
+              <option value="centos rpm -Uvh" />
+              <option value="@workspace release" />
+              <option value="centos 创建服务脚本并开机启动" />
+              <option value="centos  chkconfig创建服务脚本并开机启动" />
+              <option value="java map 获取keys" />
+            </list>
+          </value>
+        </entry>
+        <entry key="HDMS3_ELAFS|1117380323206201|@workspace">
+          <value>
+            <list>
+              <option value="release" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="showInlineAcceptTips" value="false" />
+    <option name="showInlineTriggerTips" value="false" />
+  </component>
+</application>

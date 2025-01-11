@@ -1,0 +1,8 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="USE_HTTP_PROXY" value="true" />
+    <option name="PROXY_HOST" value="192.168.1.7" />
+    <option name="PROXY_PORT" value="7777" />
+    <option name="PROXY_EXCEPTIONS" value="127.0.0.1,localhost,music.163.com,dev.cobocn.net,lanhuapp.com,www.showdoc.com.cn,devzhang.cobocn.net,content.cobocn.net,home.cobocn.net,home.cobo.cn,qiye.cobo.cn,s0.cobo.cn,baidu.com,sp.cobocn.net" />
+  </component>
+</application>

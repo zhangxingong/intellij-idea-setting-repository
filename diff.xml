@@ -7,7 +7,7 @@
     <option name="PLACES_MAP">
       <entry key="Default">
         <PlaceSettings>
-          <option name="SPLITTER_PROPORTION" value="0.88112617" />
+          <option name="SPLITTER_PROPORTION" value="0.0" />
         </PlaceSettings>
       </entry>
     </option>
@@ -19,21 +19,10 @@
           <option name="EXPAND_BY_DEFAULT" value="false" />
         </PlaceSettings>
       </entry>
-      <entry key="CommitDialog">
-        <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
-        </PlaceSettings>
-      </entry>
       <entry key="Default">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
         </PlaceSettings>
-      </entry>
-      <entry key="DirDiff">
-        <PlaceSettings />
-      </entry>
-      <entry key="Merge">
-        <PlaceSettings />
       </entry>
     </option>
   </component>

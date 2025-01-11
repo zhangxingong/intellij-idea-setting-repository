@@ -1,4 +1,21 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="DatabaseView.Tools.SubmitChanges" />
+  <action id="Git.Rename.Local.Branch">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift alt 9" />
+  </action>
+  <action id="ServiceView.GroupByContributor" />
+  <action id="Session.Rename">
+    <keyboard-shortcut first-keystroke="shift 6" />
+  </action>
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -13,6 +30,22 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="Tool_External Tools_emacs">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="Tool_External Tools_gvim">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="Tool_External Tools_spacevim">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="Tool_External Tools_vscode">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="emacsIDEAs.AceJumpSelect" />
   <action id="emacsIDEAs.AceJumpWord">

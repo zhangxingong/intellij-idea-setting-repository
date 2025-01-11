@@ -34,4 +34,11 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="err" value="ActionMessages errors = new ActionMessages();&#10;errors.add(&quot;$KEY$&quot;,new ActionMessage(&quot;$DESC$&quot;, false));&#10;saveErrors(request, errors);&#10;return errors(mapping, form, request, response);" description="控制层错误消息" toReformat="false" toShortenFQNames="true">
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DESC" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
